@@ -1,25 +1,38 @@
+@import "../../styles/responsive.scss";
+$tablet-resize: 900px;
 .signUpFormContainer {
-  width: 50%;
+  width: 80%;
+  @include responsive($tablet) {
+    width: 50%;
+  }
   .signup-form {
     display: flex;
     flex-direction: column;
-    gap: 2rem;
-
+    gap: 1rem;
+    @include responsive($tablet) {
+      gap: 2rem;
+    }
     .form-group {
       display: flex;
       flex-direction: column;
       gap: 0.5rem;
 
       label {
-        font-size: 1rem;
+        font-size: 0.9rem;
         font-weight: bold;
+        @include responsive($tablet) {
+          font-size: 1rem;
+        }
       }
 
       input {
         padding: 0.5rem;
-        font-size: 1rem;
+        font-size: 0.8rem;
         border: 1px solid #ccc;
         border-radius: 4px;
+        @include responsive($tablet) {
+          font-size: 1rem;
+        }
       }
 
       .error-message {

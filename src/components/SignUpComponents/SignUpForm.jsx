@@ -1,6 +1,10 @@
 import React, { useState } from "react";
 import "./SignUpForm.scss";
+import GetText from "../../functions/getTexts";
+import { useTranslation } from "react-i18next";
 const SignupForm = () => {
+  const { content } = GetText("signUp");
+  const { i18n } = useTranslation();
   const [formData, setFormData] = useState({
     name: "",
     email: "",
@@ -46,45 +50,45 @@ const SignupForm = () => {
     <div className="signUpFormContainer">
       <form className="signup-form" onSubmit={handleSubmit}>
         <div className="form-group">
-          <label htmlFor="name">نام</label>
+          <label htmlFor="name">{content.name}</label>
           <input
             type="text"
             id="name"
             name="name"
             value={formData.name}
             onChange={handleInputChange}
-            placeholder="نام خود را وارد کنید"
+            placeholder={content.namePH}
           />
         </div>
 
         <div className="form-group">
-          <label htmlFor="email">ایمیل</label>
+          <label htmlFor="email">{content.email}</label>
           <input
             type="email"
             id="email"
             name="email"
             value={formData.email}
             onChange={handleInputChange}
-            placeholder="ایمیل خود را وارد کنید"
+            placeholder={content.emailPH}
           />
           {errors.email && <p className="error-message">{errors.email}</p>}
         </div>
 
         <div className="form-group">
-          <label htmlFor="phone">شماره تلفن (اختیاری)</label>
+          <label htmlFor="phone"> {content.phonNum}</label>
           <input
             type="text"
             id="phone"
             name="phone"
             value={formData.phone}
             onChange={handleInputChange}
-            placeholder="شماره تلفن خود را وارد کنید"
+            placeholder={content.phonNumPH}
           />
           {errors.phone && <p className="error-message">{errors.phone}</p>}
         </div>
 
         <button type="submit" className="submit-button">
-          ثبت نام
+        {content.signUpBtn}
         </button>
       </form>
 
