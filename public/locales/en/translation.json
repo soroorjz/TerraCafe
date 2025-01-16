@@ -1347,5 +1347,25 @@
       "hours": "Working hours",
       "desc": "Every Day : 8:00 AM - 10:00 PM"
     }
+  },
+  "signIn": {
+    "content": {
+      "userName": "Username",
+      "userNamePH": "Enter your username",
+      "passWord": "Password",
+      "passWordPH": "Enter your password",
+      "signInBtn": "Sign In"
+    }
+  },
+  "signUp": {
+    "content": {
+      "name": "Name",
+      "namePH": "Enter your name",
+      "email": "Email",
+      "emailPH": "Enter your email",
+      "phonNum": "Phone Number",
+      "phonNumPH": "Enter your phone number",
+      "signUpBtn": "Sign Up"
+    }
   }
 }
