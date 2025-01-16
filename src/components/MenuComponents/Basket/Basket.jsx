@@ -12,7 +12,12 @@ const Basket = ({ orders, onClose, onRemoveOrder, onEditOrder }) => {
   };
 
   return (
-    <div className="basket-container">
+    <div
+      className={`basket-container ${
+        i18n.language === "fa" ? "faBasket" : ""
+      }`}
+      
+    >
       <button className="close-basket" onClick={onClose}>
         ✖
       </button>

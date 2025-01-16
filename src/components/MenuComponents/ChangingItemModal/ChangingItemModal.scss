@@ -36,8 +36,8 @@ $tablet-resize: 900px;
     }
     .close-button {
       position: absolute;
-      top: 0;
-      right: 0;
+      top: 10px;
+      right: 10px;
       background: none;
       border: none;
       font-size: 20px;
@@ -69,18 +69,22 @@ $tablet-resize: 900px;
         width: fit-content;
         border-bottom: 2px solid #ca9976;
         padding: 0 20px 10px 0;
-        margin-bottom: 0;
+        margin: 10px 0;
       }
-
+      .noPadding {
+        padding: 0;
+      }
       .item-price {
         font-size: 20px;
         color: #333;
-        margin-bottom: 10px;
+        margin: 10px 0;
         width: fit-content;
         border-bottom: 2px solid #ca9976;
         padding: 0 20px 10px 0;
       }
-
+      .noPadding {
+        padding: 0;
+      }
       .item-description {
         font-size: 16px;
         color: #666;
@@ -93,7 +97,7 @@ $tablet-resize: 900px;
       .toppings-title {
         font-size: 18px;
         font-weight: bold;
-        margin-bottom: 10px;
+        margin: 10px 0;
       }
 
       .toppings-note {
@@ -104,18 +108,23 @@ $tablet-resize: 900px;
 
       .toppings-list {
         display: flex;
+        gap: 10px;
         flex-wrap: wrap;
         border-bottom: 1px solid #ca9976;
 
         .topping-item {
           margin-right: 20px;
-          margin-bottom: 10px;
+          margin: 10px 0;
+          input{
+            margin: 0 3px;
+          }
         }
       }
 
       .subtotal {
         font-size: 18px;
         font-weight: bold;
+        margin: 10px 0;
       }
 
       .quantity-control {
@@ -140,7 +149,7 @@ $tablet-resize: 900px;
         border-radius: 4px;
         cursor: pointer;
         font-size: 16px;
-        margin-top: 20px;
+        margin: 20px 0;
 
         &:hover {
           background-color: #be5103;

@@ -61,8 +61,20 @@ const ChangingItemModal = ({ item, order, isOpen, onClose, onAddToOrder }) => {
         </button>
         <div className="modal-content">
           <img src={item.image} alt={item.title} className="item-image" />
-          <h2 className="item-title">{item.title}</h2>
-          <p className="item-price">${itemPrice.toFixed(2)}</p>
+          <h2
+            className={`item-title ${
+              i18n.language === "fa" ? "noPadding" : ""
+            }`}
+          >
+            {item.title}
+          </h2>
+          <p
+            className={`item-price ${
+              i18n.language === "fa" ? "noPadding" : ""
+            }`}
+          >
+            ${itemPrice.toFixed(2)}
+          </p>
           <p className="item-description">{item.desc}</p>
 
           <h3 className="toppings-title">{menuWords.Add}</h3>

@@ -140,8 +140,8 @@
             "modalInfo": {
               "title": "سفارشی‌سازی کرُک مادام",
               "additionalOptions": [
-                { "name": "افزودن آووکادو", "price": 1.5 },
-                { "name": "افزودن بیکن", "price": 2 }
+                { "name": "  آووکادو", "price": 1.5 },
+                { "name": "  بیکن", "price": 2 }
               ]
             }
           },
@@ -156,8 +156,8 @@
             "modalInfo": {
               "title": "سفارشی‌سازی وافل",
               "additionalOptions": [
-                { "name": "افزودن شیره افرا", "price": 0.5 },
-                { "name": "افزودن خامه", "price": 1 }
+                { "name": "  شیره افرا", "price": 0.5 },
+                { "name": "  خامه", "price": 1 }
               ]
             }
           },
@@ -172,8 +172,8 @@
             "modalInfo": {
               "title": "سفارشی‌سازی کاسه صبحانه",
               "additionalOptions": [
-                { "name": "افزودن شیره افرا", "price": 1.5 },
-                { "name": "افزودن عسل", "price": 2 }
+                { "name": "  شیره افرا", "price": 1.5 },
+                { "name": "  عسل", "price": 2 }
               ]
             }
           },
@@ -188,8 +188,8 @@
             "modalInfo": {
               "title": "سفارشی‌سازی صبحانه انگلیسی",
               "additionalOptions": [
-                { "name": "افزودن قهوه", "price": 1.5 },
-                { "name": "افزودن چای", "price": 2 }
+                { "name": "  قهوه", "price": 1.5 },
+                { "name": "  چای", "price": 2 }
               ]
             }
           }
@@ -214,8 +214,8 @@
             "modalInfo": {
               "title": "سفارشی‌سازی چای ماسالا",
               "additionalOptions": [
-                { "name": "افزودن عسل", "price": 1.5 },
-                { "name": "افزودن ملون عسلی", "price": 2 }
+                { "name": "  عسل", "price": 1.5 },
+                { "name": "  ملون عسلی", "price": 2 }
               ]
             }
           },
@@ -230,8 +230,8 @@
             "modalInfo": {
               "title": "سفارشی‌سازی ماچا",
               "additionalOptions": [
-                { "name": "افزودن عسل", "price": 1.5 },
-                { "name": "افزودن شیر", "price": 2 }
+                { "name": "  عسل", "price": 1.5 },
+                { "name": "  شیر", "price": 2 }
               ]
             }
           },
@@ -246,9 +246,9 @@
             "modalInfo": {
               "title": "سفارشی‌سازی چای خاورمیانه‌ای",
               "additionalOptions": [
-                { "name": "افزودن نبات", "price": 1.5 },
-                { "name": "افزودن عسل", "price": 2 },
-                { "name": "افزودن ملون عسلی", "price": 2.1 }
+                { "name": "  نبات", "price": 1.5 },
+                { "name": "  عسل", "price": 2 },
+                { "name": "  ملون عسلی", "price": 2.1 }
               ]
             }
           },
@@ -263,8 +263,8 @@
             "modalInfo": {
               "title": "سفارشی‌سازی کرُک مادام",
               "additionalOptions": [
-                { "name": "افزودن خامه", "price": 1.5 },
-                { "name": "افزودن کرم شکلاتی", "price": 2 }
+                { "name": "  خامه", "price": 1.5 },
+                { "name": "  کرم شکلاتی", "price": 2 }
               ]
             }
           }
