@@ -314,14 +314,14 @@
   },
   "Recipe": {
     "words": {
-      "button": "See how it works"
+      "button": "ببینید چطور کار می‌کنه"
     },
     "brewingMethods": [
       {
         "id": "v60",
         "title": "آموزش دم‌آوری با وی60",
         "image": "../../../assets/images/hario-v60-control-your-brew-with-receipe-grind-size-temperature-and-time.webp",
-        "description": "Precise brewing for a balanced taste",
+        "description": "دم‌آوری دقیق برای طعمی متعادل",
         "steps": [
           {
             "stepNumber": 1,
@@ -400,7 +400,7 @@
         "id": "Chemex",
         "title": "آموزش دم‌آوری با کمکس",
         "image": "../../assets/images/3dc2c2e565cbf292b31eeaa10ba01603.jpg",
-        "description": "Clean and light coffee with elegant design",
+        "description": "قهوه‌ای تمیز و سبک با طراحی ظریف",
         "steps": [
           {
             "stepNumber": 1,
@@ -479,7 +479,7 @@
         "id": "AeroPress",
         "title": "آموزش دم‌آوری با ایروپرس",
         "image": "../../assets/images/1d4735f5343a91680ca9eb81c9ab9484.jpg",
-        "description": "Fast, portable, and versatile",
+        "description": "سریع، قابل‌حمل و چندمنظوره",
         "steps": [
           {
             "stepNumber": 1,
@@ -558,7 +558,7 @@
         "id": "Siphon",
         "title": "آموزش دم‌آوری با وی60",
         "image": "",
-        "description": "A fusion of science and art for pure coffee",
+        "description": "ترکیبی از علم و هنر برای قهوه‌ای خالص",
         "steps": [
           {
             "stepNumber": 1,
@@ -637,7 +637,7 @@
         "id": "Kalita Wave",
         "title": "آموزش دم‌آوری با وی60",
         "image": "",
-        "description": "Even extraction with a smooth flavor",
+        "description": "استخراج یکنواخت با طعمی نرم و دلپذیر",
         "steps": [
           {
             "stepNumber": 1,
@@ -716,7 +716,7 @@
         "id": "Clever Dripper",
         "title": "آموزش دم‌آوری با وی60",
         "image": "",
-        "description": "A mix of control and ease for rich coffee",
+        "description": "ترکیبی از کنترل و سادگی برای قهوه‌ای غنی",
         "steps": [
           {
             "stepNumber": 1,
@@ -795,7 +795,7 @@
         "id": "French Press",
         "title": "آموزش دم‌آوری با وی60",
         "image": "../../assets/images/4472cb437677ddfa58f1a171f9a61987.jpg",
-        "description": "Simple and bold brewing with a rich flavor",
+        "description": "دم‌آوری ساده و جسورانه با طعمی غنی",
         "steps": [
           {
             "stepNumber": 1,
@@ -874,7 +874,7 @@
         "id": "Drip Coffee Maker",
         "title": "آموزش دم‌آوری با وی60",
         "image": "",
-        "description": "Easy and quick for daily coffee",
+        "description": "آسان و سریع برای قهوه‌ی روزانه",
         "steps": [
           {
             "stepNumber": 1,
@@ -953,7 +953,7 @@
         "id": "Cold Brew",
         "title": "آموزش دم‌آوری با وی60",
         "image": "",
-        "description": "Cold brewing for a smooth and mellow taste",
+        "description": "دم‌آوری سرد برای طعمی نرم و ملایم",
         "steps": [
           {
             "stepNumber": 1,
@@ -1032,7 +1032,7 @@
         "id": "Espresso Machine",
         "title": "آموزش دم‌آوری با وی60",
         "image": "",
-        "description": "The professional choice for perfect espresso",
+        "description": "انتخاب حرفه‌ای برای اسپرسویی بی‌نقص",
         "steps": [
           {
             "stepNumber": 1,
@@ -1111,7 +1111,7 @@
         "id": "Moka Pot",
         "title": "آموزش دم‌آوری با موکاپات ",
         "image": "../../assets/images/8ba32dae47b2b40c2c5c8d7cf7adfba6.jpg",
-        "description": "Homemade espresso with a classic method",
+        "description": "اسپرسوی خانگی با روش کلاسیک",
         "steps": [
           {
             "stepNumber": 1,
@@ -1190,7 +1190,7 @@
         "id": "Ibrik",
         "title": "آموزش دم‌آوری با Ibrik ",
         "image": "../../assets/images/8ba32dae47b2b40c2c5c8d7cf7adfba6.jpg",
-        "description": "Homemade espresso with a classic method",
+        "description": "اسپرسوی خانگی با روش کلاسیک",
         "steps": [
           {
             "stepNumber": 1,
