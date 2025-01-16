@@ -1,0 +1,42 @@
+@import "../../../styles/responsive.scss";
+$tablet-resize: 900px;
+.aboutUsIntro {
+  display: flex;
+  flex-direction: column-reverse;
+  gap: 20px;
+  justify-content: center;
+  align-items: center;
+  width: 90%;
+  margin: 50px auto;
+  @include responsive($tablet-resize) {
+    flex-direction: row;
+  }
+  .aboutUsStory {
+    width: 100%;
+    text-align: center;
+    @include responsive($tablet-resize) {
+      width: 45%;
+      text-align: unset;
+    }
+    h1 {
+      margin-bottom: 15px;
+    }
+    p {
+      font-size: 16px;
+      line-height: 25px;
+      @include responsive($tablet-resize) {
+        font-size: 24px;
+        line-height: 35px;
+      }
+    }
+  }
+  .aboutUsImg {
+    width: 100%;
+    @include responsive($tablet-resize) {
+      width: 45%;
+    }
+    img {
+      width: 100%;
+    }
+  }
+}

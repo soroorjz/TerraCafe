@@ -1,0 +1,1351 @@
+{
+  "HomePage": {
+    "HomePageBanner": {
+      "about": "About Terra Café",
+      "Blogs": "Blogs",
+      "Terra": "Terra Café",
+      "Menu": "Café Menu",
+      "Beans": "Coffee Beans",
+      "SignUp": "Sign up",
+      "LogIn": "Log in"
+    },
+    "ToolBlogSlider": {
+      "slogan": "The Magic of Flavor in Every Brew",
+      "title": "Secrets of Each Tool"
+    }
+  },
+  "Menu": {
+    "menuWords": {
+      "Logotilte": "Business Insights",
+      "more": "more",
+      "PopularTitle": "Most popular",
+      "subBy": "By",
+      "subOn": "on",
+      "Switch": "Switch it up!",
+      "Add": "Add-ons",
+      "Subtotal": "Subtotal",
+      "Order": "Add to Order",
+      "ShoppingCart": "Shopping Cart ",
+      "empty": "Your shopping cart is empty",
+      "TotalPrice": "Total Price",
+      "UnitPrice": "Unit Price",
+      "Quantity": "Quantity",
+      "QuantityAlert": "Tell me how many of this you need!",
+      "Remove": "Remove",
+      "Edit": "Edit"
+    },
+    "BusinessInsightsInfo": [
+      {
+        "id": 1,
+        "title": "Breakfast",
+        "color": "#F4A261",
+        "staticTexts": {
+          "businessInsightsTitle": "Business Insights"
+        },
+        "insightCards": [
+          {
+            "id": 1,
+            "link": "",
+            "image": "../../assets/images/ce4b6317583ed5b8ecdfca56ee08b1c5sq.jpg",
+            "title": "Croque madame",
+            "desc": "spinach and smoked salmon",
+            "price": 12,
+            "modalId": "croqueModal",
+            "modalInfo": {
+              "title": "Customize your Croque Madame",
+              "additionalOptions": [
+                { "name": "Add avocado", "price": 1.5 },
+                { "name": "Add bacon", "price": 2 }
+              ]
+            }
+          },
+          {
+            "id": 2,
+            "link": "",
+            "image": "../../assets/images/waffleSq.jpg",
+            "title": "Breakfast Bliss Waffle",
+            "desc": "waffles with bacon and eggs",
+            "price": 7.9,
+            "modalId": "waffleModal",
+            "modalInfo": {
+              "title": "Customize your Waffle",
+              "additionalOptions": [
+                { "name": "Add maple syrup", "price": 0.5 },
+                { "name": "Add whipped cream", "price": 1 }
+              ]
+            }
+          },
+          {
+            "id": 3,
+            "link": "",
+            "image": "../../assets/images/34ff9ff3fc41c4c1498b0685ef7fe6a7sq.jpg",
+            "title": "Breakfast Bowl",
+            "desc": "mouth watering bowl with homemade granola, nut butter and fresh fruits",
+            "price": 4.6,
+            "modalId": "Breakfast Bowl",
+            "modalInfo": {
+              "title": "Customize your Breakfast Bowl",
+              "additionalOptions": [
+                { "name": "Add maple syrup", "price": 1.5 },
+                { "name": "Add Honey", "price": 2 }
+              ]
+            }
+          },
+          {
+            "id": 4,
+            "link": "",
+            "image": "../../assets/images/EnglishPlateSq.jpg",
+            "title": "English breakfast",
+            "desc": "A hearty platter of crispy bacon, juicy sausages, fried eggs, baked beans, grilled tomatoes, mushrooms and toast",
+            "price": 7.9,
+            "modalId": "English breakfast",
+            "modalInfo": {
+              "title": "Customize your English breakfast",
+              "additionalOptions": [
+                { "name": "Add coffee", "price": 1.5 },
+                { "name": "Add tea", "price": 2 }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "title": "Hot drink",
+        "color": "#C19A6B",
+        "staticTexts": {
+          "businessInsightsTitle": "Business Insights"
+        },
+        "insightCards": [
+          {
+            "id": "a",
+            "link": "",
+            "image": "../../assets/images/MasalaSq.jpg",
+            "title": "Masala tea",
+            "desc": "Aromatic spiced tea made with black tea, milk, sugar, and a blend of warm spices like cardamom, cinnamon, ginger, and cloves. A comforting classic! ",
+            "price": 7.2,
+            "modalId": "Masala tea",
+            "modalInfo": {
+              "title": "Customize your Masala tea",
+              "additionalOptions": [
+                { "name": "Add Honey", "price": 1.5 },
+                { "name": "Add Honeydew", "price": 2 }
+              ]
+            }
+          },
+          {
+            "id": "b",
+            "link": "",
+            "image": "../../assets/images/Matchasq.jpg",
+            "title": "Matcha",
+            "desc": "A vibrant green tea made from finely ground Japanese tea leaves, offering a creamy, earthy flavor and a boost of antioxidants. ",
+            "price": 1.2,
+            "modalId": "Matcha",
+            "modalInfo": {
+              "title": "Customize your Matcha",
+              "additionalOptions": [
+                { "name": "Add Honey", "price": 1.5 },
+                { "name": "Add Milk", "price": 2 }
+              ]
+            }
+          },
+          {
+            "id": "c",
+            "link": "",
+            "image": "../../assets/images/midleEasteTeasq.jpg",
+            "title": "Middle Eastern Tea",
+            "desc": "A fragrant tea brewed with black tea leaves, often infused with cardamom, mint, or saffron, and served sweetened in small glasses. Warm and inviting!",
+            "price": 7.5,
+            "modalId": "MiddleEasternTea",
+            "modalInfo": {
+              "title": "Customize your Middle Eastern Tea",
+              "additionalOptions": [
+                { "name": "Add Nabat", "price": 1.5 },
+                { "name": "Add Honey", "price": 2 },
+                { "name": "Add Honeydew", "price": 2.1 }
+              ]
+            }
+          },
+          {
+            "id": "d",
+            "link": "",
+            "image": "../../assets/images/hotChocolatesq.jpg",
+            "title": "Hot chocolate",
+            "desc": "Rich, creamy drink made with melted chocolate , steamed milk, and a touch of sweetness. marshmallows!",
+            "price": 7.3,
+            "modalId": "croqueModal",
+            "modalInfo": {
+              "title": "Customize your Croque Madame",
+              "additionalOptions": [
+                { "name": "Add Cream", "price": 1.5 },
+                { "name": "Add Chocolate cream", "price": 2 }
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "MaterialPart": {
+    "materialList": [
+      {
+        "id": 1,
+        "itemName": "Hario V60 brewer"
+      },
+      {
+        "id": 2,
+        "itemName": "Hario V60 filter"
+      },
+      {
+        "id": 3,
+        "itemName": "Grinder"
+      },
+      {
+        "id": 4,
+        "itemName": "21g (3 Tablespoons) of ground coffee"
+      },
+      {
+        "id": 5,
+        "itemName": "Hot water just off the boil (about 205°F)"
+      },
+      {
+        "id": 6,
+        "itemName": "Scale"
+      },
+      {
+        "id": 7,
+        "itemName": "Timer"
+      },
+      {
+        "id": 8,
+        "itemName": "Mug"
+      },
+      {
+        "id": 9,
+        "itemName": "Optional: Brewing carafe"
+      }
+    ]
+  },
+  "Recipe": {
+    "words": {
+      "button": "See how it works"
+    },
+    "brewingMethods": [
+      {
+        "id": "v60",
+        "title": "Brewing Guide with V60",
+        "image": "../../../assets/images/hario-v60-control-your-brew-with-receipe-grind-size-temperature-and-time.webp",
+        "description": "Precise brewing for a balanced taste",
+        "steps": [
+          {
+            "stepNumber": 1,
+            "title": "فیلتر را آماده کنید",
+            "description": "کتل برقی را روشن کنید و اجازه بدهید آب به دمای ۹۴ درجه سانتی‌گراد برسد...",
+            "image": "/assets/images/1.jpg"
+          },
+          {
+            "stepNumber": 2,
+            "title": "فیلتر را آماده کنید",
+            "description": "کتل برقی را روشن کنید و اجازه بدهید آب به دمای ۹۴ درجه سانتی‌گراد برسد...",
+            "image": "/assets/images/1.jpg"
+          },
+          {
+            "stepNumber": 3,
+            "title": "فیلتر را آماده کنید",
+            "description": "کتل برقی را روشن کنید و اجازه بدهید آب به دمای ۹۴ درجه سانتی‌گراد برسد...",
+            "image": "/assets/images/1.jpg"
+          },
+          {
+            "stepNumber": 4,
+            "title": "فیلتر را آماده کنید",
+            "description": "کتل برقی را روشن کنید و اجازه بدهید آب به دمای ۹۴ درجه سانتی‌گراد برسد...",
+            "image": "/assets/images/1.jpg"
+          },
+          {
+            "stepNumber": 5,
+            "title": "فیلتر را آماده کنید",
+            "description": "کتل برقی را روشن کنید و اجازه بدهید آب به دمای ۹۴ درجه سانتی‌گراد برسد...",
+            "image": "/assets/images/1.jpg"
+          },
+          {
+            "stepNumber": 6,
+            "title": "فیلتر را آماده کنید",
+            "description": "کتل برقی را روشن کنید و اجازه بدهید آب به دمای ۹۴ درجه سانتی‌گراد برسد...",
+            "image": "/assets/images/1.jpg"
+          },
+          {
+            "stepNumber": 7,
+            "title": "فیلتر را آماده کنید",
+            "description": "کتل برقی را روشن کنید و اجازه بدهید آب به دمای ۹۴ درجه سانتی‌گراد برسد...",
+            "image": "/assets/images/1.jpg"
+          },
+          {
+            "stepNumber": 8,
+            "title": "فیلتر را آماده کنید",
+            "description": "کتل برقی را روشن کنید و اجازه بدهید آب به دمای ۹۴ درجه سانتی‌گراد برسد...",
+            "image": "/assets/images/1.jpg"
+          },
+          {
+            "stepNumber": 9,
+            "title": "فیلتر را آماده کنید",
+            "description": "کتل برقی را روشن کنید و اجازه بدهید آب به دمای ۹۴ درجه سانتی‌گراد برسد...",
+            "image": "/assets/images/1.jpg"
+          },
+          {
+            "stepNumber": 10,
+            "title": "فیلتر را آماده کنید",
+            "description": "کتل برقی را روشن کنید و اجازه بدهید آب به دمای ۹۴ درجه سانتی‌گراد برسد...",
+            "image": "/assets/images/1.jpg"
+          }
+        ],
+        "materialList": [
+          { "id": 1, "itemName": "Hario V60 brewer" },
+          { "id": 2, "itemName": "Hario V60 filter" },
+          { "id": 3, "itemName": "Grinder" },
+          { "id": 4, "itemName": "21g (3 Tablespoons) of ground coffee" },
+          { "id": 5, "itemName": "Hot water just off the boil (about 205°F)" },
+          { "id": 6, "itemName": "Scale" },
+          { "id": 7, "itemName": "Timer" },
+          { "id": 8, "itemName": "Mug" },
+          { "id": 9, "itemName": "Optional: Brewing carafe" }
+        ]
+      },
+      {
+        "id": "Chemex",
+        "title": "Brewing Guide with Chemex",
+        "image": "../../assets/images/3dc2c2e565cbf292b31eeaa10ba01603.jpg",
+        "description": "Clean and light coffee with elegant design",
+        "steps": [
+          {
+            "stepNumber": 1,
+            "title": "فیلتر را آماده کنید",
+            "description": "کتل برقی را روشن کنید و اجازه بدهید آب به دمای ۹۴ درجه سانتی‌گراد برسد...",
+            "image": "/assets/images/1.jpg"
+          },
+          {
+            "stepNumber": 2,
+            "title": "فیلتر را آماده کنید",
+            "description": "کتل برقی را روشن کنید و اجازه بدهید آب به دمای ۹۴ درجه سانتی‌گراد برسد...",
+            "image": "/assets/images/1.jpg"
+          },
+          {
+            "stepNumber": 3,
+            "title": "فیلتر را آماده کنید",
+            "description": "کتل برقی را روشن کنید و اجازه بدهید آب به دمای ۹۴ درجه سانتی‌گراد برسد...",
+            "image": "/assets/images/1.jpg"
+          },
+          {
+            "stepNumber": 4,
+            "title": "فیلتر را آماده کنید",
+            "description": "کتل برقی را روشن کنید و اجازه بدهید آب به دمای ۹۴ درجه سانتی‌گراد برسد...",
+            "image": "/assets/images/1.jpg"
+          },
+          {
+            "stepNumber": 5,
+            "title": "فیلتر را آماده کنید",
+            "description": "کتل برقی را روشن کنید و اجازه بدهید آب به دمای ۹۴ درجه سانتی‌گراد برسد...",
+            "image": "/assets/images/1.jpg"
+          },
+          {
+            "stepNumber": 6,
+            "title": "فیلتر را آماده کنید",
+            "description": "کتل برقی را روشن کنید و اجازه بدهید آب به دمای ۹۴ درجه سانتی‌گراد برسد...",
+            "image": "/assets/images/1.jpg"
+          },
+          {
+            "stepNumber": 7,
+            "title": "فیلتر را آماده کنید",
+            "description": "کتل برقی را روشن کنید و اجازه بدهید آب به دمای ۹۴ درجه سانتی‌گراد برسد...",
+            "image": "/assets/images/1.jpg"
+          },
+          {
+            "stepNumber": 8,
+            "title": "فیلتر را آماده کنید",
+            "description": "کتل برقی را روشن کنید و اجازه بدهید آب به دمای ۹۴ درجه سانتی‌گراد برسد...",
+            "image": "/assets/images/1.jpg"
+          },
+          {
+            "stepNumber": 9,
+            "title": "فیلتر را آماده کنید",
+            "description": "کتل برقی را روشن کنید و اجازه بدهید آب به دمای ۹۴ درجه سانتی‌گراد برسد...",
+            "image": "/assets/images/1.jpg"
+          },
+          {
+            "stepNumber": 10,
+            "title": "فیلتر را آماده کنید",
+            "description": "کتل برقی را روشن کنید و اجازه بدهید آب به دمای ۹۴ درجه سانتی‌گراد برسد...",
+            "image": "/assets/images/1.jpg"
+          }
+        ],
+        "materialList": [
+          { "id": 1, "itemName": "Hario V60 brewer" },
+          { "id": 2, "itemName": "Hario V60 filter" },
+          { "id": 3, "itemName": "Grinder" },
+          { "id": 4, "itemName": "21g (3 Tablespoons) of ground coffee" },
+          { "id": 5, "itemName": "Hot water just off the boil (about 205°F)" },
+          { "id": 6, "itemName": "Scale" },
+          { "id": 7, "itemName": "Timer" },
+          { "id": 8, "itemName": "Mug" },
+          { "id": 9, "itemName": "Optional: Brewing carafe" }
+        ]
+      },
+      {
+        "id": "AeroPress",
+        "title": "Brewing Guide with AeroPress",
+        "image": "../../assets/images/1d4735f5343a91680ca9eb81c9ab9484.jpg",
+        "description": "Fast, portable, and versatile",
+        "steps": [
+          {
+            "stepNumber": 1,
+            "title": "فیلتر را آماده کنید",
+            "description": "کتل برقی را روشن کنید و اجازه بدهید آب به دمای ۹۴ درجه سانتی‌گراد برسد...",
+            "image": "/assets/images/1.jpg"
+          },
+          {
+            "stepNumber": 2,
+            "title": "فیلتر را آماده کنید",
+            "description": "کتل برقی را روشن کنید و اجازه بدهید آب به دمای ۹۴ درجه سانتی‌گراد برسد...",
+            "image": "/assets/images/1.jpg"
+          },
+          {
+            "stepNumber": 3,
+            "title": "فیلتر را آماده کنید",
+            "description": "کتل برقی را روشن کنید و اجازه بدهید آب به دمای ۹۴ درجه سانتی‌گراد برسد...",
+            "image": "/assets/images/1.jpg"
+          },
+          {
+            "stepNumber": 4,
+            "title": "فیلتر را آماده کنید",
+            "description": "کتل برقی را روشن کنید و اجازه بدهید آب به دمای ۹۴ درجه سانتی‌گراد برسد...",
+            "image": "/assets/images/1.jpg"
+          },
+          {
+            "stepNumber": 5,
+            "title": "فیلتر را آماده کنید",
+            "description": "کتل برقی را روشن کنید و اجازه بدهید آب به دمای ۹۴ درجه سانتی‌گراد برسد...",
+            "image": "/assets/images/1.jpg"
+          },
+          {
+            "stepNumber": 6,
+            "title": "فیلتر را آماده کنید",
+            "description": "کتل برقی را روشن کنید و اجازه بدهید آب به دمای ۹۴ درجه سانتی‌گراد برسد...",
+            "image": "/assets/images/1.jpg"
+          },
+          {
+            "stepNumber": 7,
+            "title": "فیلتر را آماده کنید",
+            "description": "کتل برقی را روشن کنید و اجازه بدهید آب به دمای ۹۴ درجه سانتی‌گراد برسد...",
+            "image": "/assets/images/1.jpg"
+          },
+          {
+            "stepNumber": 8,
+            "title": "فیلتر را آماده کنید",
+            "description": "کتل برقی را روشن کنید و اجازه بدهید آب به دمای ۹۴ درجه سانتی‌گراد برسد...",
+            "image": "/assets/images/1.jpg"
+          },
+          {
+            "stepNumber": 9,
+            "title": "فیلتر را آماده کنید",
+            "description": "کتل برقی را روشن کنید و اجازه بدهید آب به دمای ۹۴ درجه سانتی‌گراد برسد...",
+            "image": "/assets/images/1.jpg"
+          },
+          {
+            "stepNumber": 10,
+            "title": "فیلتر را آماده کنید",
+            "description": "کتل برقی را روشن کنید و اجازه بدهید آب به دمای ۹۴ درجه سانتی‌گراد برسد...",
+            "image": "/assets/images/1.jpg"
+          }
+        ],
+        "materialList": [
+          { "id": 1, "itemName": "Hario V60 brewer" },
+          { "id": 2, "itemName": "Hario V60 filter" },
+          { "id": 3, "itemName": "Grinder" },
+          { "id": 4, "itemName": "21g (3 Tablespoons) of ground coffee" },
+          { "id": 5, "itemName": "Hot water just off the boil (about 205°F)" },
+          { "id": 6, "itemName": "Scale" },
+          { "id": 7, "itemName": "Timer" },
+          { "id": 8, "itemName": "Mug" },
+          { "id": 9, "itemName": "Optional: Brewing carafe" }
+        ]
+      },
+      {
+        "id": "Siphon",
+        "title": "Brewing Guide with Siphon",
+        "image": "",
+        "description": "A fusion of science and art for pure coffee",
+        "steps": [
+          {
+            "stepNumber": 1,
+            "title": "فیلتر را آماده کنید",
+            "description": "کتل برقی را روشن کنید و اجازه بدهید آب به دمای ۹۴ درجه سانتی‌گراد برسد...",
+            "image": "/assets/images/1.jpg"
+          },
+          {
+            "stepNumber": 2,
+            "title": "فیلتر را آماده کنید",
+            "description": "کتل برقی را روشن کنید و اجازه بدهید آب به دمای ۹۴ درجه سانتی‌گراد برسد...",
+            "image": "/assets/images/1.jpg"
+          },
+          {
+            "stepNumber": 3,
+            "title": "فیلتر را آماده کنید",
+            "description": "کتل برقی را روشن کنید و اجازه بدهید آب به دمای ۹۴ درجه سانتی‌گراد برسد...",
+            "image": "/assets/images/1.jpg"
+          },
+          {
+            "stepNumber": 4,
+            "title": "فیلتر را آماده کنید",
+            "description": "کتل برقی را روشن کنید و اجازه بدهید آب به دمای ۹۴ درجه سانتی‌گراد برسد...",
+            "image": "/assets/images/1.jpg"
+          },
+          {
+            "stepNumber": 5,
+            "title": "فیلتر را آماده کنید",
+            "description": "کتل برقی را روشن کنید و اجازه بدهید آب به دمای ۹۴ درجه سانتی‌گراد برسد...",
+            "image": "/assets/images/1.jpg"
+          },
+          {
+            "stepNumber": 6,
+            "title": "فیلتر را آماده کنید",
+            "description": "کتل برقی را روشن کنید و اجازه بدهید آب به دمای ۹۴ درجه سانتی‌گراد برسد...",
+            "image": "/assets/images/1.jpg"
+          },
+          {
+            "stepNumber": 7,
+            "title": "فیلتر را آماده کنید",
+            "description": "کتل برقی را روشن کنید و اجازه بدهید آب به دمای ۹۴ درجه سانتی‌گراد برسد...",
+            "image": "/assets/images/1.jpg"
+          },
+          {
+            "stepNumber": 8,
+            "title": "فیلتر را آماده کنید",
+            "description": "کتل برقی را روشن کنید و اجازه بدهید آب به دمای ۹۴ درجه سانتی‌گراد برسد...",
+            "image": "/assets/images/1.jpg"
+          },
+          {
+            "stepNumber": 9,
+            "title": "فیلتر را آماده کنید",
+            "description": "کتل برقی را روشن کنید و اجازه بدهید آب به دمای ۹۴ درجه سانتی‌گراد برسد...",
+            "image": "/assets/images/1.jpg"
+          },
+          {
+            "stepNumber": 10,
+            "title": "فیلتر را آماده کنید",
+            "description": "کتل برقی را روشن کنید و اجازه بدهید آب به دمای ۹۴ درجه سانتی‌گراد برسد...",
+            "image": "/assets/images/1.jpg"
+          }
+        ],
+        "materialList": [
+          { "id": 1, "itemName": "Hario V60 brewer" },
+          { "id": 2, "itemName": "Hario V60 filter" },
+          { "id": 3, "itemName": "Grinder" },
+          { "id": 4, "itemName": "21g (3 Tablespoons) of ground coffee" },
+          { "id": 5, "itemName": "Hot water just off the boil (about 205°F)" },
+          { "id": 6, "itemName": "Scale" },
+          { "id": 7, "itemName": "Timer" },
+          { "id": 8, "itemName": "Mug" },
+          { "id": 9, "itemName": "Optional: Brewing carafe" }
+        ]
+      },
+      {
+        "id": "Kalita Wave",
+        "title": "Brewing Guide with Kalita Wave",
+        "image": "",
+        "description": "Even extraction with a smooth flavor",
+        "steps": [
+          {
+            "stepNumber": 1,
+            "title": "فیلتر را آماده کنید",
+            "description": "کتل برقی را روشن کنید و اجازه بدهید آب به دمای ۹۴ درجه سانتی‌گراد برسد...",
+            "image": "/assets/images/1.jpg"
+          },
+          {
+            "stepNumber": 2,
+            "title": "فیلتر را آماده کنید",
+            "description": "کتل برقی را روشن کنید و اجازه بدهید آب به دمای ۹۴ درجه سانتی‌گراد برسد...",
+            "image": "/assets/images/1.jpg"
+          },
+          {
+            "stepNumber": 3,
+            "title": "فیلتر را آماده کنید",
+            "description": "کتل برقی را روشن کنید و اجازه بدهید آب به دمای ۹۴ درجه سانتی‌گراد برسد...",
+            "image": "/assets/images/1.jpg"
+          },
+          {
+            "stepNumber": 4,
+            "title": "فیلتر را آماده کنید",
+            "description": "کتل برقی را روشن کنید و اجازه بدهید آب به دمای ۹۴ درجه سانتی‌گراد برسد...",
+            "image": "/assets/images/1.jpg"
+          },
+          {
+            "stepNumber": 5,
+            "title": "فیلتر را آماده کنید",
+            "description": "کتل برقی را روشن کنید و اجازه بدهید آب به دمای ۹۴ درجه سانتی‌گراد برسد...",
+            "image": "/assets/images/1.jpg"
+          },
+          {
+            "stepNumber": 6,
+            "title": "فیلتر را آماده کنید",
+            "description": "کتل برقی را روشن کنید و اجازه بدهید آب به دمای ۹۴ درجه سانتی‌گراد برسد...",
+            "image": "/assets/images/1.jpg"
+          },
+          {
+            "stepNumber": 7,
+            "title": "فیلتر را آماده کنید",
+            "description": "کتل برقی را روشن کنید و اجازه بدهید آب به دمای ۹۴ درجه سانتی‌گراد برسد...",
+            "image": "/assets/images/1.jpg"
+          },
+          {
+            "stepNumber": 8,
+            "title": "فیلتر را آماده کنید",
+            "description": "کتل برقی را روشن کنید و اجازه بدهید آب به دمای ۹۴ درجه سانتی‌گراد برسد...",
+            "image": "/assets/images/1.jpg"
+          },
+          {
+            "stepNumber": 9,
+            "title": "فیلتر را آماده کنید",
+            "description": "کتل برقی را روشن کنید و اجازه بدهید آب به دمای ۹۴ درجه سانتی‌گراد برسد...",
+            "image": "/assets/images/1.jpg"
+          },
+          {
+            "stepNumber": 10,
+            "title": "فیلتر را آماده کنید",
+            "description": "کتل برقی را روشن کنید و اجازه بدهید آب به دمای ۹۴ درجه سانتی‌گراد برسد...",
+            "image": "/assets/images/1.jpg"
+          }
+        ],
+        "materialList": [
+          { "id": 1, "itemName": "Hario V60 brewer" },
+          { "id": 2, "itemName": "Hario V60 filter" },
+          { "id": 3, "itemName": "Grinder" },
+          { "id": 4, "itemName": "21g (3 Tablespoons) of ground coffee" },
+          { "id": 5, "itemName": "Hot water just off the boil (about 205°F)" },
+          { "id": 6, "itemName": "Scale" },
+          { "id": 7, "itemName": "Timer" },
+          { "id": 8, "itemName": "Mug" },
+          { "id": 9, "itemName": "Optional: Brewing carafe" }
+        ]
+      },
+      {
+        "id": "Clever Dripper",
+        "title": "Brewing Guide with Clever Dripper",
+        "image": "",
+        "description": "A mix of control and ease for rich coffee",
+        "steps": [
+          {
+            "stepNumber": 1,
+            "title": "فیلتر را آماده کنید",
+            "description": "کتل برقی را روشن کنید و اجازه بدهید آب به دمای ۹۴ درجه سانتی‌گراد برسد...",
+            "image": "/assets/images/1.jpg"
+          },
+          {
+            "stepNumber": 2,
+            "title": "فیلتر را آماده کنید",
+            "description": "کتل برقی را روشن کنید و اجازه بدهید آب به دمای ۹۴ درجه سانتی‌گراد برسد...",
+            "image": "/assets/images/1.jpg"
+          },
+          {
+            "stepNumber": 3,
+            "title": "فیلتر را آماده کنید",
+            "description": "کتل برقی را روشن کنید و اجازه بدهید آب به دمای ۹۴ درجه سانتی‌گراد برسد...",
+            "image": "/assets/images/1.jpg"
+          },
+          {
+            "stepNumber": 4,
+            "title": "فیلتر را آماده کنید",
+            "description": "کتل برقی را روشن کنید و اجازه بدهید آب به دمای ۹۴ درجه سانتی‌گراد برسد...",
+            "image": "/assets/images/1.jpg"
+          },
+          {
+            "stepNumber": 5,
+            "title": "فیلتر را آماده کنید",
+            "description": "کتل برقی را روشن کنید و اجازه بدهید آب به دمای ۹۴ درجه سانتی‌گراد برسد...",
+            "image": "/assets/images/1.jpg"
+          },
+          {
+            "stepNumber": 6,
+            "title": "فیلتر را آماده کنید",
+            "description": "کتل برقی را روشن کنید و اجازه بدهید آب به دمای ۹۴ درجه سانتی‌گراد برسد...",
+            "image": "/assets/images/1.jpg"
+          },
+          {
+            "stepNumber": 7,
+            "title": "فیلتر را آماده کنید",
+            "description": "کتل برقی را روشن کنید و اجازه بدهید آب به دمای ۹۴ درجه سانتی‌گراد برسد...",
+            "image": "/assets/images/1.jpg"
+          },
+          {
+            "stepNumber": 8,
+            "title": "فیلتر را آماده کنید",
+            "description": "کتل برقی را روشن کنید و اجازه بدهید آب به دمای ۹۴ درجه سانتی‌گراد برسد...",
+            "image": "/assets/images/1.jpg"
+          },
+          {
+            "stepNumber": 9,
+            "title": "فیلتر را آماده کنید",
+            "description": "کتل برقی را روشن کنید و اجازه بدهید آب به دمای ۹۴ درجه سانتی‌گراد برسد...",
+            "image": "/assets/images/1.jpg"
+          },
+          {
+            "stepNumber": 10,
+            "title": "فیلتر را آماده کنید",
+            "description": "کتل برقی را روشن کنید و اجازه بدهید آب به دمای ۹۴ درجه سانتی‌گراد برسد...",
+            "image": "/assets/images/1.jpg"
+          }
+        ],
+        "materialList": [
+          { "id": 1, "itemName": "Hario V60 brewer" },
+          { "id": 2, "itemName": "Hario V60 filter" },
+          { "id": 3, "itemName": "Grinder" },
+          { "id": 4, "itemName": "21g (3 Tablespoons) of ground coffee" },
+          { "id": 5, "itemName": "Hot water just off the boil (about 205°F)" },
+          { "id": 6, "itemName": "Scale" },
+          { "id": 7, "itemName": "Timer" },
+          { "id": 8, "itemName": "Mug" },
+          { "id": 9, "itemName": "Optional: Brewing carafe" }
+        ]
+      },
+      {
+        "id": "French Press",
+        "title": "Brewing Guide with French Press",
+        "image": "../../assets/images/4472cb437677ddfa58f1a171f9a61987.jpg",
+        "description": "Simple and bold brewing with a rich flavor",
+        "steps": [
+          {
+            "stepNumber": 1,
+            "title": "فیلتر را آماده کنید",
+            "description": "کتل برقی را روشن کنید و اجازه بدهید آب به دمای ۹۴ درجه سانتی‌گراد برسد...",
+            "image": "/assets/images/1.jpg"
+          },
+          {
+            "stepNumber": 2,
+            "title": "فیلتر را آماده کنید",
+            "description": "کتل برقی را روشن کنید و اجازه بدهید آب به دمای ۹۴ درجه سانتی‌گراد برسد...",
+            "image": "/assets/images/1.jpg"
+          },
+          {
+            "stepNumber": 3,
+            "title": "فیلتر را آماده کنید",
+            "description": "کتل برقی را روشن کنید و اجازه بدهید آب به دمای ۹۴ درجه سانتی‌گراد برسد...",
+            "image": "/assets/images/1.jpg"
+          },
+          {
+            "stepNumber": 4,
+            "title": "فیلتر را آماده کنید",
+            "description": "کتل برقی را روشن کنید و اجازه بدهید آب به دمای ۹۴ درجه سانتی‌گراد برسد...",
+            "image": "/assets/images/1.jpg"
+          },
+          {
+            "stepNumber": 5,
+            "title": "فیلتر را آماده کنید",
+            "description": "کتل برقی را روشن کنید و اجازه بدهید آب به دمای ۹۴ درجه سانتی‌گراد برسد...",
+            "image": "/assets/images/1.jpg"
+          },
+          {
+            "stepNumber": 6,
+            "title": "فیلتر را آماده کنید",
+            "description": "کتل برقی را روشن کنید و اجازه بدهید آب به دمای ۹۴ درجه سانتی‌گراد برسد...",
+            "image": "/assets/images/1.jpg"
+          },
+          {
+            "stepNumber": 7,
+            "title": "فیلتر را آماده کنید",
+            "description": "کتل برقی را روشن کنید و اجازه بدهید آب به دمای ۹۴ درجه سانتی‌گراد برسد...",
+            "image": "/assets/images/1.jpg"
+          },
+          {
+            "stepNumber": 8,
+            "title": "فیلتر را آماده کنید",
+            "description": "کتل برقی را روشن کنید و اجازه بدهید آب به دمای ۹۴ درجه سانتی‌گراد برسد...",
+            "image": "/assets/images/1.jpg"
+          },
+          {
+            "stepNumber": 9,
+            "title": "فیلتر را آماده کنید",
+            "description": "کتل برقی را روشن کنید و اجازه بدهید آب به دمای ۹۴ درجه سانتی‌گراد برسد...",
+            "image": "/assets/images/1.jpg"
+          },
+          {
+            "stepNumber": 10,
+            "title": "فیلتر را آماده کنید",
+            "description": "کتل برقی را روشن کنید و اجازه بدهید آب به دمای ۹۴ درجه سانتی‌گراد برسد...",
+            "image": "/assets/images/1.jpg"
+          }
+        ],
+        "materialList": [
+          { "id": 1, "itemName": "Hario V60 brewer" },
+          { "id": 2, "itemName": "Hario V60 filter" },
+          { "id": 3, "itemName": "Grinder" },
+          { "id": 4, "itemName": "21g (3 Tablespoons) of ground coffee" },
+          { "id": 5, "itemName": "Hot water just off the boil (about 205°F)" },
+          { "id": 6, "itemName": "Scale" },
+          { "id": 7, "itemName": "Timer" },
+          { "id": 8, "itemName": "Mug" },
+          { "id": 9, "itemName": "Optional: Brewing carafe" }
+        ]
+      },
+      {
+        "id": "Drip Coffee Maker",
+        "title": "Brewing Guide with Drip Coffee Maker",
+        "image": "",
+        "description": "Easy and quick for daily coffee",
+        "steps": [
+          {
+            "stepNumber": 1,
+            "title": "فیلتر را آماده کنید",
+            "description": "کتل برقی را روشن کنید و اجازه بدهید آب به دمای ۹۴ درجه سانتی‌گراد برسد...",
+            "image": "/assets/images/1.jpg"
+          },
+          {
+            "stepNumber": 2,
+            "title": "فیلتر را آماده کنید",
+            "description": "کتل برقی را روشن کنید و اجازه بدهید آب به دمای ۹۴ درجه سانتی‌گراد برسد...",
+            "image": "/assets/images/1.jpg"
+          },
+          {
+            "stepNumber": 3,
+            "title": "فیلتر را آماده کنید",
+            "description": "کتل برقی را روشن کنید و اجازه بدهید آب به دمای ۹۴ درجه سانتی‌گراد برسد...",
+            "image": "/assets/images/1.jpg"
+          },
+          {
+            "stepNumber": 4,
+            "title": "فیلتر را آماده کنید",
+            "description": "کتل برقی را روشن کنید و اجازه بدهید آب به دمای ۹۴ درجه سانتی‌گراد برسد...",
+            "image": "/assets/images/1.jpg"
+          },
+          {
+            "stepNumber": 5,
+            "title": "فیلتر را آماده کنید",
+            "description": "کتل برقی را روشن کنید و اجازه بدهید آب به دمای ۹۴ درجه سانتی‌گراد برسد...",
+            "image": "/assets/images/1.jpg"
+          },
+          {
+            "stepNumber": 6,
+            "title": "فیلتر را آماده کنید",
+            "description": "کتل برقی را روشن کنید و اجازه بدهید آب به دمای ۹۴ درجه سانتی‌گراد برسد...",
+            "image": "/assets/images/1.jpg"
+          },
+          {
+            "stepNumber": 7,
+            "title": "فیلتر را آماده کنید",
+            "description": "کتل برقی را روشن کنید و اجازه بدهید آب به دمای ۹۴ درجه سانتی‌گراد برسد...",
+            "image": "/assets/images/1.jpg"
+          },
+          {
+            "stepNumber": 8,
+            "title": "فیلتر را آماده کنید",
+            "description": "کتل برقی را روشن کنید و اجازه بدهید آب به دمای ۹۴ درجه سانتی‌گراد برسد...",
+            "image": "/assets/images/1.jpg"
+          },
+          {
+            "stepNumber": 9,
+            "title": "فیلتر را آماده کنید",
+            "description": "کتل برقی را روشن کنید و اجازه بدهید آب به دمای ۹۴ درجه سانتی‌گراد برسد...",
+            "image": "/assets/images/1.jpg"
+          },
+          {
+            "stepNumber": 10,
+            "title": "فیلتر را آماده کنید",
+            "description": "کتل برقی را روشن کنید و اجازه بدهید آب به دمای ۹۴ درجه سانتی‌گراد برسد...",
+            "image": "/assets/images/1.jpg"
+          }
+        ],
+        "materialList": [
+          { "id": 1, "itemName": "Hario V60 brewer" },
+          { "id": 2, "itemName": "Hario V60 filter" },
+          { "id": 3, "itemName": "Grinder" },
+          { "id": 4, "itemName": "21g (3 Tablespoons) of ground coffee" },
+          { "id": 5, "itemName": "Hot water just off the boil (about 205°F)" },
+          { "id": 6, "itemName": "Scale" },
+          { "id": 7, "itemName": "Timer" },
+          { "id": 8, "itemName": "Mug" },
+          { "id": 9, "itemName": "Optional: Brewing carafe" }
+        ]
+      },
+      {
+        "id": "Cold Brew",
+        "title": "Brewing Guide with Cold Brew",
+        "image": "",
+        "description": "Cold brewing for a smooth and mellow taste",
+        "steps": [
+          {
+            "stepNumber": 1,
+            "title": "فیلتر را آماده کنید",
+            "description": "کتل برقی را روشن کنید و اجازه بدهید آب به دمای ۹۴ درجه سانتی‌گراد برسد...",
+            "image": "/assets/images/1.jpg"
+          },
+          {
+            "stepNumber": 2,
+            "title": "فیلتر را آماده کنید",
+            "description": "کتل برقی را روشن کنید و اجازه بدهید آب به دمای ۹۴ درجه سانتی‌گراد برسد...",
+            "image": "/assets/images/1.jpg"
+          },
+          {
+            "stepNumber": 3,
+            "title": "فیلتر را آماده کنید",
+            "description": "کتل برقی را روشن کنید و اجازه بدهید آب به دمای ۹۴ درجه سانتی‌گراد برسد...",
+            "image": "/assets/images/1.jpg"
+          },
+          {
+            "stepNumber": 4,
+            "title": "فیلتر را آماده کنید",
+            "description": "کتل برقی را روشن کنید و اجازه بدهید آب به دمای ۹۴ درجه سانتی‌گراد برسد...",
+            "image": "/assets/images/1.jpg"
+          },
+          {
+            "stepNumber": 5,
+            "title": "فیلتر را آماده کنید",
+            "description": "کتل برقی را روشن کنید و اجازه بدهید آب به دمای ۹۴ درجه سانتی‌گراد برسد...",
+            "image": "/assets/images/1.jpg"
+          },
+          {
+            "stepNumber": 6,
+            "title": "فیلتر را آماده کنید",
+            "description": "کتل برقی را روشن کنید و اجازه بدهید آب به دمای ۹۴ درجه سانتی‌گراد برسد...",
+            "image": "/assets/images/1.jpg"
+          },
+          {
+            "stepNumber": 7,
+            "title": "فیلتر را آماده کنید",
+            "description": "کتل برقی را روشن کنید و اجازه بدهید آب به دمای ۹۴ درجه سانتی‌گراد برسد...",
+            "image": "/assets/images/1.jpg"
+          },
+          {
+            "stepNumber": 8,
+            "title": "فیلتر را آماده کنید",
+            "description": "کتل برقی را روشن کنید و اجازه بدهید آب به دمای ۹۴ درجه سانتی‌گراد برسد...",
+            "image": "/assets/images/1.jpg"
+          },
+          {
+            "stepNumber": 9,
+            "title": "فیلتر را آماده کنید",
+            "description": "کتل برقی را روشن کنید و اجازه بدهید آب به دمای ۹۴ درجه سانتی‌گراد برسد...",
+            "image": "/assets/images/1.jpg"
+          },
+          {
+            "stepNumber": 10,
+            "title": "فیلتر را آماده کنید",
+            "description": "کتل برقی را روشن کنید و اجازه بدهید آب به دمای ۹۴ درجه سانتی‌گراد برسد...",
+            "image": "/assets/images/1.jpg"
+          }
+        ],
+        "materialList": [
+          { "id": 1, "itemName": "Hario V60 brewer" },
+          { "id": 2, "itemName": "Hario V60 filter" },
+          { "id": 3, "itemName": "Grinder" },
+          { "id": 4, "itemName": "21g (3 Tablespoons) of ground coffee" },
+          { "id": 5, "itemName": "Hot water just off the boil (about 205°F)" },
+          { "id": 6, "itemName": "Scale" },
+          { "id": 7, "itemName": "Timer" },
+          { "id": 8, "itemName": "Mug" },
+          { "id": 9, "itemName": "Optional: Brewing carafe" }
+        ]
+      },
+      {
+        "id": "Espresso Machine",
+        "title": "Brewing Guide with Espresso Machine",
+        "image": "",
+        "description": "The professional choice for perfect espresso",
+        "steps": [
+          {
+            "stepNumber": 1,
+            "title": "فیلتر را آماده کنید",
+            "description": "کتل برقی را روشن کنید و اجازه بدهید آب به دمای ۹۴ درجه سانتی‌گراد برسد...",
+            "image": "/assets/images/1.jpg"
+          },
+          {
+            "stepNumber": 2,
+            "title": "فیلتر را آماده کنید",
+            "description": "کتل برقی را روشن کنید و اجازه بدهید آب به دمای ۹۴ درجه سانتی‌گراد برسد...",
+            "image": "/assets/images/1.jpg"
+          },
+          {
+            "stepNumber": 3,
+            "title": "فیلتر را آماده کنید",
+            "description": "کتل برقی را روشن کنید و اجازه بدهید آب به دمای ۹۴ درجه سانتی‌گراد برسد...",
+            "image": "/assets/images/1.jpg"
+          },
+          {
+            "stepNumber": 4,
+            "title": "فیلتر را آماده کنید",
+            "description": "کتل برقی را روشن کنید و اجازه بدهید آب به دمای ۹۴ درجه سانتی‌گراد برسد...",
+            "image": "/assets/images/1.jpg"
+          },
+          {
+            "stepNumber": 5,
+            "title": "فیلتر را آماده کنید",
+            "description": "کتل برقی را روشن کنید و اجازه بدهید آب به دمای ۹۴ درجه سانتی‌گراد برسد...",
+            "image": "/assets/images/1.jpg"
+          },
+          {
+            "stepNumber": 6,
+            "title": "فیلتر را آماده کنید",
+            "description": "کتل برقی را روشن کنید و اجازه بدهید آب به دمای ۹۴ درجه سانتی‌گراد برسد...",
+            "image": "/assets/images/1.jpg"
+          },
+          {
+            "stepNumber": 7,
+            "title": "فیلتر را آماده کنید",
+            "description": "کتل برقی را روشن کنید و اجازه بدهید آب به دمای ۹۴ درجه سانتی‌گراد برسد...",
+            "image": "/assets/images/1.jpg"
+          },
+          {
+            "stepNumber": 8,
+            "title": "فیلتر را آماده کنید",
+            "description": "کتل برقی را روشن کنید و اجازه بدهید آب به دمای ۹۴ درجه سانتی‌گراد برسد...",
+            "image": "/assets/images/1.jpg"
+          },
+          {
+            "stepNumber": 9,
+            "title": "فیلتر را آماده کنید",
+            "description": "کتل برقی را روشن کنید و اجازه بدهید آب به دمای ۹۴ درجه سانتی‌گراد برسد...",
+            "image": "/assets/images/1.jpg"
+          },
+          {
+            "stepNumber": 10,
+            "title": "فیلتر را آماده کنید",
+            "description": "کتل برقی را روشن کنید و اجازه بدهید آب به دمای ۹۴ درجه سانتی‌گراد برسد...",
+            "image": "/assets/images/1.jpg"
+          }
+        ],
+        "materialList": [
+          { "id": 1, "itemName": "Hario V60 brewer" },
+          { "id": 2, "itemName": "Hario V60 filter" },
+          { "id": 3, "itemName": "Grinder" },
+          { "id": 4, "itemName": "21g (3 Tablespoons) of ground coffee" },
+          { "id": 5, "itemName": "Hot water just off the boil (about 205°F)" },
+          { "id": 6, "itemName": "Scale" },
+          { "id": 7, "itemName": "Timer" },
+          { "id": 8, "itemName": "Mug" },
+          { "id": 9, "itemName": "Optional: Brewing carafe" }
+        ]
+      },
+      {
+        "id": "Moka Pot",
+        "title": "Brewing Guide with Moka Pot",
+        "image": "../../assets/images/8ba32dae47b2b40c2c5c8d7cf7adfba6.jpg",
+        "description": "Homemade espresso with a classic method",
+        "steps": [
+          {
+            "stepNumber": 1,
+            "title": "فیلتر را آماده کنید",
+            "description": "کتل برقی را روشن کنید و اجازه بدهید آب به دمای ۹۴ درجه سانتی‌گراد برسد...",
+            "image": "/assets/images/1.jpg"
+          },
+          {
+            "stepNumber": 2,
+            "title": "فیلتر را آماده کنید",
+            "description": "کتل برقی را روشن کنید و اجازه بدهید آب به دمای ۹۴ درجه سانتی‌گراد برسد...",
+            "image": "/assets/images/1.jpg"
+          },
+          {
+            "stepNumber": 3,
+            "title": "فیلتر را آماده کنید",
+            "description": "کتل برقی را روشن کنید و اجازه بدهید آب به دمای ۹۴ درجه سانتی‌گراد برسد...",
+            "image": "/assets/images/1.jpg"
+          },
+          {
+            "stepNumber": 4,
+            "title": "فیلتر را آماده کنید",
+            "description": "کتل برقی را روشن کنید و اجازه بدهید آب به دمای ۹۴ درجه سانتی‌گراد برسد...",
+            "image": "/assets/images/1.jpg"
+          },
+          {
+            "stepNumber": 5,
+            "title": "فیلتر را آماده کنید",
+            "description": "کتل برقی را روشن کنید و اجازه بدهید آب به دمای ۹۴ درجه سانتی‌گراد برسد...",
+            "image": "/assets/images/1.jpg"
+          },
+          {
+            "stepNumber": 6,
+            "title": "فیلتر را آماده کنید",
+            "description": "کتل برقی را روشن کنید و اجازه بدهید آب به دمای ۹۴ درجه سانتی‌گراد برسد...",
+            "image": "/assets/images/1.jpg"
+          },
+          {
+            "stepNumber": 7,
+            "title": "فیلتر را آماده کنید",
+            "description": "کتل برقی را روشن کنید و اجازه بدهید آب به دمای ۹۴ درجه سانتی‌گراد برسد...",
+            "image": "/assets/images/1.jpg"
+          },
+          {
+            "stepNumber": 8,
+            "title": "فیلتر را آماده کنید",
+            "description": "کتل برقی را روشن کنید و اجازه بدهید آب به دمای ۹۴ درجه سانتی‌گراد برسد...",
+            "image": "/assets/images/1.jpg"
+          },
+          {
+            "stepNumber": 9,
+            "title": "فیلتر را آماده کنید",
+            "description": "کتل برقی را روشن کنید و اجازه بدهید آب به دمای ۹۴ درجه سانتی‌گراد برسد...",
+            "image": "/assets/images/1.jpg"
+          },
+          {
+            "stepNumber": 10,
+            "title": "فیلتر را آماده کنید",
+            "description": "کتل برقی را روشن کنید و اجازه بدهید آب به دمای ۹۴ درجه سانتی‌گراد برسد...",
+            "image": "/assets/images/1.jpg"
+          }
+        ],
+        "materialList": [
+          { "id": 1, "itemName": "Hario V60 brewer" },
+          { "id": 2, "itemName": "Hario V60 filter" },
+          { "id": 3, "itemName": "Grinder" },
+          { "id": 4, "itemName": "21g (3 Tablespoons) of ground coffee" },
+          { "id": 5, "itemName": "Hot water just off the boil (about 205°F)" },
+          { "id": 6, "itemName": "Scale" },
+          { "id": 7, "itemName": "Timer" },
+          { "id": 8, "itemName": "Mug" },
+          { "id": 9, "itemName": "Optional: Brewing carafe" }
+        ]
+      },
+      {
+        "id": "Ibrik",
+        "title": "Brewing Guide with Ibrik",
+        "image": "../../assets/images/8ba32dae47b2b40c2c5c8d7cf7adfba6.jpg",
+        "description": "Homemade espresso with a classic method",
+        "steps": [
+          {
+            "stepNumber": 1,
+            "title": "فیلتر را آماده کنید",
+            "description": "کتل برقی را روشن کنید و اجازه بدهید آب به دمای ۹۴ درجه سانتی‌گراد برسد...",
+            "image": "/assets/images/1.jpg"
+          },
+          {
+            "stepNumber": 2,
+            "title": "فیلتر را آماده کنید",
+            "description": "کتل برقی را روشن کنید و اجازه بدهید آب به دمای ۹۴ درجه سانتی‌گراد برسد...",
+            "image": "/assets/images/1.jpg"
+          },
+          {
+            "stepNumber": 3,
+            "title": "فیلتر را آماده کنید",
+            "description": "کتل برقی را روشن کنید و اجازه بدهید آب به دمای ۹۴ درجه سانتی‌گراد برسد...",
+            "image": "/assets/images/1.jpg"
+          },
+          {
+            "stepNumber": 4,
+            "title": "فیلتر را آماده کنید",
+            "description": "کتل برقی را روشن کنید و اجازه بدهید آب به دمای ۹۴ درجه سانتی‌گراد برسد...",
+            "image": "/assets/images/1.jpg"
+          },
+          {
+            "stepNumber": 5,
+            "title": "فیلتر را آماده کنید",
+            "description": "کتل برقی را روشن کنید و اجازه بدهید آب به دمای ۹۴ درجه سانتی‌گراد برسد...",
+            "image": "/assets/images/1.jpg"
+          },
+          {
+            "stepNumber": 6,
+            "title": "فیلتر را آماده کنید",
+            "description": "کتل برقی را روشن کنید و اجازه بدهید آب به دمای ۹۴ درجه سانتی‌گراد برسد...",
+            "image": "/assets/images/1.jpg"
+          },
+          {
+            "stepNumber": 7,
+            "title": "فیلتر را آماده کنید",
+            "description": "کتل برقی را روشن کنید و اجازه بدهید آب به دمای ۹۴ درجه سانتی‌گراد برسد...",
+            "image": "/assets/images/1.jpg"
+          },
+          {
+            "stepNumber": 8,
+            "title": "فیلتر را آماده کنید",
+            "description": "کتل برقی را روشن کنید و اجازه بدهید آب به دمای ۹۴ درجه سانتی‌گراد برسد...",
+            "image": "/assets/images/1.jpg"
+          },
+          {
+            "stepNumber": 9,
+            "title": "فیلتر را آماده کنید",
+            "description": "کتل برقی را روشن کنید و اجازه بدهید آب به دمای ۹۴ درجه سانتی‌گراد برسد...",
+            "image": "/assets/images/1.jpg"
+          },
+          {
+            "stepNumber": 10,
+            "title": "فیلتر را آماده کنید",
+            "description": "کتل برقی را روشن کنید و اجازه بدهید آب به دمای ۹۴ درجه سانتی‌گراد برسد...",
+            "image": "/assets/images/1.jpg"
+          }
+        ],
+        "materialList": [
+          { "id": 1, "itemName": "Hario V60 brewer" },
+          { "id": 2, "itemName": "Hario V60 filter" },
+          { "id": 3, "itemName": "Grinder" },
+          { "id": 4, "itemName": "21g (3 Tablespoons) of ground coffee" },
+          { "id": 5, "itemName": "Hot water just off the boil (about 205°F)" },
+          { "id": 6, "itemName": "Scale" },
+          { "id": 7, "itemName": "Timer" },
+          { "id": 8, "itemName": "Mug" },
+          { "id": 9, "itemName": "Optional: Brewing carafe" }
+        ]
+      }
+    ]
+  },
+  "aboutUs": {
+    "title": "Terra Café",
+    "subTitle": "The Land of Flavor and Aroma",
+    "description": "Every cup of coffee has a new story to tell",
+    "StoryTitle": "A Story of Coffee Passion",
+    "Story": " Terra Café is a small land with big stories—a place where the aroma of coffee meets the taste of authenticity. The name Terra, inspired by the Latin word for land and farm, reflects both our café as our little homeland and our tribute to coffee farms around the world. We fell in love with the rich and intricate world of coffee—a universe filled with unique flavors and unforgettable aromas. This passion drove us to create a space where we could not only enjoy coffee but also share the art and culture of it with others. Terra Café was born to provide a friendly yet professional environment where every offering you a glimpse into the fascinating world of specialty coffee."
+  },
+  "AboutUs": {
+    "options": [
+      {
+        "id": "Sara",
+        "image": "/assets/images/Sarah.jpg",
+        "Title": "The Flavor Wizard",
+        "story": " flavors and experimenting with different combinations. Her love for unique tastes has made her a creative barista. Sara is always eager to try new beans and innovative methods. For her, every cup of coffee is an opportunity to tell a new story. If you ever taste a coffee with an extraordinary flavor, know that it’s Sara’s magic behind it!",
+        "icon": "SlMagicWand"
+      },
+      {
+        "id": "Nima",
+        "image": "/assets/images/Nima.jpg",
+        "Title": "The Brewing Equipment Specialist",
+        "story": "Nima has a special interest in various brewing techniques. He is a curious and passionate learner, always seeking better ways to extract the finest flavors from coffee beans. Nima is skilled with all brewing tools and can create diverse flavors using each of them. If you want a coffee brewed with precision and expertise, Nima is the one you can trust.",
+        "icon": "PiCoffeeBeanFill"
+      },
+      {
+        "id": "Arya",
+        "image": "/assets/images/Arya.jpg",
+        "Title": "The Espresso Master",
+        "story": "Arya is a precise and dedicated individual who values attention to detail. He is deeply passionate about espresso and the intricate process of making it. For Arya, crafting an espresso is an art that requires focus and mastery. He ensures that every extraction is perfect, capturing the full flavor and aroma of the beans. Arya’s espresso is the flawless foundation for any coffee beverage.",
+        "icon": "CgCoffee"
+      },
+      {
+        "id": "Mina",
+        "image": "/assets/images/Mina.jpg",
+        "Title": "The Latte Art Artist",
+        "story": "Mina has always been in love with art and design. When she entered the world of coffee, she found a way to channel her creativity through latte art. She believes the visual beauty of a drink is an essential part of the coffee experience. With her precision and finesse, Mina transforms every cup into a masterpiece. Her lattes are not only delicious but also leave you in awe with their stunning designs.",
+        "icon": "SiCoffeescript"
+      }
+    ],
+    "AboutUsBarista": {
+      "Title": "Meet the Creators of Our Coffee Flavors"
+    },
+    "missionTitle": "Our Mission",
+    "missions": [
+      {
+        "id": 1,
+        "icon": "☕",
+        "title": "Quality Coffee",
+        "description": "Delivering the finest coffee experience with premium beans."
+      },
+      {
+        "id": 2,
+        "icon": "🏠",
+        "title": "Warm Atmosphere",
+        "description": "Creating a cozy space where everyone feels at home."
+      },
+      {
+        "id": 3,
+        "icon": "❤️",
+        "title": "Community Love",
+        "description": "Supporting local initiatives and fostering connections."
+      }
+    ],
+    "aboutUsContact": {
+      "title": "We'd Love to Hear From You!",
+      "desc": " Whether you have questions, feedback, or just want to say hello, feel free to reach out to us. We're always here to help!",
+      "location": "Our Location",
+      "add": "Terra Café, 123 Coffee Street, Coffee City",
+      "Touch": "Get in Touch",
+      "phone": "Phone",
+      "phoneNum": "+123 456 7890",
+      "email": "Email",
+      "emailAdd": "hello@terracafe.com",
+      "Follow": "Follow Us",
+      "Instagram": "Instagram",
+      "Facebook": "Facebook",
+      "Twitter": "Twitter"
+    }
+  },
+  "Products": {
+    "words": {
+      "title": "Explore What We Do",
+      "subTitle": "From Beans to Treats",
+      "Explore": "Explore"
+    },
+    "sections": [
+      {
+        "title": "Roastery",
+        "img": "/assets/images/Roastery2.jpg",
+        "desc": "The aroma of freshly roasted beans promises an exceptional cup of coffee. Our beans are carefully selected and roasted to perfection.",
+        "color": "#855D43"
+      },
+      {
+        "title": "Coffee Drinks",
+        "img": "/assets/images/coffeBrewing.jpg",
+        "desc": "Brewed with love, every sip of our coffee tells a story of unparalleled taste and aroma. From bold espressos to creamy cappuccinos, we're here for you!",
+        "color": "#29241E"
+      },
+
+      {
+        "title": "Bakery",
+        "img": "/assets/images/bakery.jpg",
+        "desc": "From warm, freshly baked bread to delightful pastries, feel the homemade touch in every bite. Everything is here for your indulgence.",
+        "color": "#D0BFAA"
+      },
+      {
+        "title": "Snacks and Sides",
+        "img": "/assets/images/Snack.jpg",
+        "desc": "Snacks that bring a smile to your face! From delicious croissants to energizing bites, we're here to make your day better.",
+        "color": "#b9c0a1"
+      }
+    ]
+  },
+  "gallery": {
+    "words": {
+      "title": "Our Gallery"
+    },
+    "slides": [
+      {
+        "slidId": 1,
+        "slidImg": "../../assets/images/Barista3.jpg"
+      },
+      {
+        "slidId": 2,
+        "slidImg": "/assets/images/Barista1.jpg"
+      },
+      {
+        "slidId": 3,
+        "slidImg": "/assets/images/a82078a35984557347110fed8ada8ea2.jpg"
+      },
+      {
+        "slidId": 4,
+        "slidImg": "/assets/images/a82078a35984557347110fed8ada8ea2.jpg"
+      },
+      {
+        "slidId": 5,
+        "slidImg": "/assets/images/a82078a35984557347110fed8ada8ea2.jpg"
+      },
+      {
+        "slidId": 6,
+        "slidImg": "/assets/images/a82078a35984557347110fed8ada8ea2.jpg"
+      }
+    ]
+  },
+  "footer": {
+    "words": {
+      "Touch": "Get in Touch",
+      "phone": "Phone",
+      "phoneNum": "+123 456 7890",
+      "email": "Email",
+      "emailAdd": "hello@terracafe.com",
+      "Follow": "Follow Us",
+      "Instagram": "Instagram",
+      "Facebook": "Facebook",
+      "Twitter": "Twitter"
+    },
+    "links": {
+      "Quick": "Quick Links",
+      "Menu": "Menu",
+      "AboutUs": "About Us",
+      "Blogs": "Blogs",
+      "ContactUs": "Contact Us"
+    },
+    "workingHours": {
+      "hours": "Working hours",
+      "desc": "Every Day : 8:00 AM - 10:00 PM"
+    }
+  }
+}

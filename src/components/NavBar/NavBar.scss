@@ -1,0 +1,123 @@
+@import "../../styles/responsive.scss";
+$tablet-resize: 900px;
+.HomePageNavbar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 100%;
+  padding: 0 50px;
+  position: fixed;
+  height: 70px;
+  z-index: 999;
+  transition: background-color 0.3s ease, box-shadow 0.3s ease;
+
+  &.scrolled {
+    background-color: #2c2522;
+    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+  }
+
+  .nav-links {
+    display: flex; 
+    align-items: center;
+    width: 100%;
+    justify-content: space-between;
+
+    .left {
+      display: flex;
+      font-size: 18px;
+      a {
+        color: #f8f0e3;
+      }
+      .blogs {
+        margin-left: 30px;
+      }
+    }
+
+    .mid {
+      a {
+        .navTitle {
+          text-align: center;
+          color: #f8f0e3;
+          font-weight: bold;
+          font-size: 32px;
+        }
+      }
+    }
+
+    .right {
+      .logItems {
+        button{
+          background: 0;
+          border: 0;
+          a {
+          color: #f8f0e3;
+          font-size: 18px;
+        }
+        .singUpBtn {
+          margin-right: 15px;
+        }
+        .faSingUpBtn{
+          margin-left: 15px;
+        }
+        }
+        
+      }
+    }
+  }
+
+  .hamburger-menu {
+    display: none;
+    flex-direction: column;
+    cursor: pointer;
+    position: absolute;
+    z-index: 100000;
+    .bar {
+      width: 30px;
+      height: 3px;
+      background-color: #f8f0e3;
+      margin: 5px 0;
+      transition: transform 0.3s ease;
+      &.open:nth-child(1) {
+        transform: translateY(17px) rotate(45deg);
+      }
+      &.open:nth-child(2) {
+        opacity: 0;
+      }
+      &.open:nth-child(3) {
+        transform: translateY(-8px) rotate(-45deg);
+      }
+    }
+  }
+
+  @media (max-width: $tablet-resize) {
+    padding: 0 20px;
+
+    .nav-links {
+      display: none; 
+      flex-direction: column;
+      position: absolute;
+      top: 70px;
+      left: 0;
+      background-color: #2c2522;
+      width: 100%;
+      padding: 15px 0;
+
+      &.open {
+        display: flex;
+        position: absolute;
+        top: 0;
+      }
+
+      a {
+        color: #f8f0e3;
+        text-decoration: none;
+        padding: 10px 0;
+        text-align: center;
+      }
+    }
+
+    .hamburger-menu {
+      display: flex;
+    }
+  }
+}

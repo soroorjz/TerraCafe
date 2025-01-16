@@ -1,13 +1,67 @@
-body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+@font-face {
+  font-family: "Shabnam";
+  src: url("/public/assets/font/shabnam/Shabnam-FD.woff2") format("woff2"),
+    url("/public/assets/font/shabnam/Shabnam-FD.woff") format("woff"),
+    url("/public/assets/font/shabnam/Shabnam-FD.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Shabnam";
+  src: url("/public/assets/font/shabnam/Shabnam-Bold-FD.woff2") format("woff2"),
+    url("/public/assets/font/shabnam/Shabnam-Bold-FD.woff") format("woff"),
+    url("/public/assets/font/shabnam/Shabnam-Bold-FD.ttf") format("truetype");
+  font-weight: bold;
+  font-style: bold;
+}
+@font-face {
+  font-family: "Shabnam";
+  src: url("/public/assets/font/shabnam/Shabnam-Thin-FD.woff2") format("woff2"),
+    url("/public/assets/font/shabnam/Shabnam-Thin-FD.woff") format("woff"),
+    url("/public/assets/font/shabnam/Shabnam-Thin-FD.ttf") format("truetype");
+  font-weight: thin;
+  font-style: thin;
+}
+@font-face {
+  font-family: "Shabnam";
+  src: url("/public/assets/font/shabnam/Shabnam-Light-FD.woff2") format("woff2"),
+    url("/public/assets/font/shabnam/Shabnam-Light-FD.woff") format("woff"),
+    url("/public/assets/font/shabnam/Shabnam-Light-FD.ttf") format("truetype");
+  font-weight: Light;
+  font-style: Light;
+}
+@font-face {
+  font-family: "Shabnam";
+  src: url("/public/assets/font/shabnam/Shabnam-Medium-FD.woff2")
+      format("woff2"),
+    url("/public/assets/font/shabnam/Shabnam-Medium-FD.woff") format("woff"),
+    url("/public/assets/font/shabnam/Shabnam-Medium-FD.ttf") format("truetype");
+  font-weight: Medium;
+  font-style: Medium;
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+
+.font-fa {
+  font-family: "Shabnam";
+  & select {
+    font-family: "Shabnam";
+  }
+  ::placeholder {
+    font-family: "Shabnam";
+  }
+  button {
+    font-family: "Shabnam";
+  }
+}
+.font-en {
+  font-family: "Playfair Display", serif; 
+}
+.font-en select {
+  font-family: "Playfair Display", serif;
+}
+.font-en ::placeholder {
+  font-family: "Playfair Display", serif;
+}
+.font-en button {
+  font-family: "Playfair Display", serif;
 }

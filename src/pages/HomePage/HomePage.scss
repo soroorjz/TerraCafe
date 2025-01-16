@@ -1,0 +1,12 @@
+.homePage-Container{
+    .navTitle {
+        text-align: center;
+        display: none;
+        color: #f8f0e3;
+        font-weight: bold;
+        font-size: 32px;
+        &.scrolledNav {
+          display: block;
+        }
+      }
+}

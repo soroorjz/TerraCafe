@@ -1,0 +1,62 @@
+@import "../../../styles/responsive.scss";
+$tablet-resize: 900px;
+.mission-section {
+  padding: 50px 20px;
+  background-color: #f9f5f0;
+  text-align: center;
+
+  .mission-title {
+    font-size:32px;
+    margin-bottom: 40px;
+    @include responsive($tablet-resize){
+    font-size: 2.5rem;
+
+    }
+  }
+
+  .mission-container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    justify-content: center;
+
+    .mission-card {
+      flex: 1;
+      min-width: 280px;
+      max-width: 350px;
+      background: #fff;
+      padding: 20px;
+      border-radius: 15px;
+      box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+      text-align: center;
+      transition: transform 0.3s, background-color 0.3s;
+
+      &:hover {
+        transform: scale(1.05);
+        background-color: #f2eae5;
+      }
+
+      .mission-icon {
+        font-size: 3rem;
+        margin-bottom: 20px;
+        color: #4a2c2a;
+        transition: transform 0.3s;
+      }
+
+      h3 {
+        font-size: 1.5rem;
+        color: #4a2c2a;
+        margin-bottom: 10px;
+      }
+
+      p {
+        font-size: 1rem;
+        color: #6b4e42;
+      }
+
+      &:hover .mission-icon {
+        transform: scale(1.2);
+      }
+    }
+  }
+}

@@ -1,0 +1,12 @@
+
+.menu-main-container {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  position: relative;
+
+  .menu-header {
+    height: 80px;
+    border-bottom: 1px solid;
+  }
+}

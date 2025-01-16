@@ -1,0 +1,191 @@
+@import "../../../styles/responsive.scss";
+
+$tablet-resize: 900px;
+
+// .contact-us {
+//   width: 100%;
+//   margin: 50px 0;
+//   .contactUsContainer {
+//     margin: 0 auto;
+//     width: 80%;
+//     h2 {
+//       padding: 50px 0;
+//       font-size: 45px;
+//       text-align: center;
+//     }
+//     .contactUsInner {
+//       display: flex;
+//       flex-direction: column;
+//       width: 100%;
+//       .sidebar {
+//         width: 95%;
+//         margin: 0 auto;
+//         ul {
+//           width: 100%;
+//           display: flex;
+//           justify-content: space-around;
+//           gap: 15px;
+//           .li {
+//             color: #222;
+//             cursor: pointer;
+//             display: flex;
+//             flex-direction: column;
+//             align-items: center;
+//             .baristaImg {
+//               width: 265px;
+//               height: 280px;
+//               border-radius: 20px;
+//               color: #555;
+//             }
+//             .active {
+//               color: #1470cc;
+//             }
+//             .sub {
+//               display: flex;
+//               text-align: center;
+//               padding: 20px;
+//               font-size: 24px;
+//               font-weight: bold;
+//               color: #7a5547;
+//               .barisptaIcon {
+//                 padding: 0 10px;
+//               }
+//             }
+//             .subActive {
+//               color: #c74626;
+//             }
+//           }
+//         }
+//       }
+//       .details {
+//         width: 80%;
+//         margin: 0 auto;
+//         background-color: #f6f6f6;
+//         height: 260px;
+//         border-radius: 20px;
+//         .card {
+//           width: 80%;
+//           margin: 50px auto;
+//           text-align: center;
+//           h1 {
+//           }
+//           p {
+//             margin-top: 10px;
+//             font-size: 20px;
+//           }
+//         }
+//       }
+//     }
+//   }
+// }
+
+.our-team {
+  width: 100%;
+  margin: 50px 0;
+  .teamContainer {
+    margin: 0 auto;
+    width: 100%;
+    @include responsive($tablet-resize) {
+      width: 80%;
+    }
+    h2 {
+      padding: 50px 0;
+      font-size: 32px;
+      text-align: center;
+      @include responsive($tablet-resize) {
+        font-size: 45px;
+      }
+    }
+    .teamInner {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      width: 100%;
+      .baristaSidebar {
+        width: 95%;
+        margin: 0 auto;
+        ul {
+          width: 100%;
+          display: flex;
+          justify-content: space-around;
+          gap:2px;
+          @include responsive($tablet-resize){
+            gap: 15px;
+          }
+          .baristaItem {
+            width: 25%;
+            color: #222;
+            cursor: pointer;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            .baristaImg {
+              width: 100%;
+              height: 100%;
+              border-radius: 20px;
+              color: #555;
+            }
+            .active {
+              border-radius: 20px;
+              padding: 2px;
+            }
+            .name {
+              display: flex;
+              text-align: center;
+              padding: 20px;
+              font-size: 20px;
+              font-weight: bold;
+              color: #7a5547;
+              @include responsive($tablet) {
+                font-size: 24px;
+              }
+              .baristaIcon {
+                padding: 0 3px;
+                @include responsive($tablet) {
+                  padding: 0 10px;
+                }
+              }
+            }
+            .nameActive {
+              color: #c74626;
+            }
+          }
+        }
+      }
+      .baristaDetails {
+        width: 100%;
+        margin: 0 auto;
+        background-color: #f6f6f6;
+        border-radius: 20px;
+        @include responsive($desktop) {
+          width: 80%;
+          height: 260px;
+        }
+        .baristaCard {
+          width: 90%;
+          margin: 20px auto;
+          text-align: center;
+          @include responsive($tablet-resize) {
+            width: 80%;
+            margin: 50px auto;
+          }
+          h1 {
+            font-size: 24px;
+            color: #333;
+            @include responsive($tablet-resize) {
+              font-size: 28px;
+            }
+          }
+          p {
+            margin-top: 10px;
+            font-size: 18px;
+            color: #555;
+            @include responsive($tablet-resize) {
+              font-size: 20px;
+            }
+          }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,151 @@
+@import "../../../styles/responsive.scss";
+$tablet-resize: 900px;
+
+.menu-cards-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  width: 94%;
+  margin: 35px auto;
+  overflow: auto;
+  .menu-cards-wrapper {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    width: 80%;
+    margin: 0 auto;
+    justify-content: center;
+    height: 100%;
+
+    @include responsive($tablet) {
+      // flex-direction: row;
+    }
+
+    .menu-card {
+      display: flex;
+      flex-direction: column;
+      justify-content: space-between;
+      border-bottom: 2px solid #8c3713;
+      width: 100%;
+      margin: 0 auto;
+      padding: 20px 0;
+      @include responsive($tablet) {
+        flex-direction: row-reverse;
+      }
+      .menu-card-image {
+        width: 100%;
+        height: auto;
+        display: flex;
+        justify-content: end;
+        position: relative;
+        @include responsive($tablet) {
+          width: unset;
+        }
+        img {
+          border-radius: 10px;
+          width: 100%;
+          height: 100%;
+          @include responsive($tablet) {
+            width: 250px;
+          }
+        }
+        .quantity-controller {
+          button {
+            position: absolute;
+            background-color: #8c3a11;
+            color: #fff;
+            border: 0;
+            font-size: 22px;
+            border-radius: 5px;
+            cursor: pointer;
+            width: 25px;
+          }
+          .ReduceBtn {
+            bottom: 10px;
+            right: 50px;
+            margin: 0 12px;
+          }
+          .IncreaseBtn {
+            bottom: 10px;
+            right: 20px;
+          }
+          span {
+            position: absolute;
+            font-size:20px;
+            font-weight: 900;
+            color: #fff;
+            bottom: 12px;
+            right: 49px;
+            text-decoration: underline;
+          }
+          .InitialBtn {
+            bottom: 10px;
+            right: 20px;
+          }
+        }
+      }
+
+      .menu-card-body {
+        // width: 75%;
+        padding: 10px 0;
+        display: flex;
+        flex-direction: column;
+        height: 100%;
+        .CardBoy-top {
+          .menu-card-title {
+            a {
+              font-size: 24px;
+              font-weight: 600;
+              line-height: 24px;
+              text-decoration: none;
+              color: #000;
+
+              &:hover {
+                text-decoration: underline;
+              }
+            }
+          }
+
+          .menu-card-description {
+            p {
+              font-size: 20px;
+              line-height: 24px;
+              color: #555;
+              margin-right: 10px;
+            }
+            .addedItems {
+              color: #cd1c18;
+            }
+          }
+        }
+
+        .menu-card-footer {
+          width: 100%;
+          display: flex;
+          flex-direction: column;
+          p {
+            font-size: 24px;
+            font-weight: 900;
+          }
+          @include responsive($tablet) {
+            flex-direction: row;
+            align-items: center;
+          }
+          button {
+            background-color: #8c3a11;
+            border: 0;
+            border-radius: 35px;
+            cursor: pointer;
+            font-size: 18px;
+            padding: 0 20px;
+            height: 40px;
+            color: #fff;
+            @include responsive($tablet) {
+              margin: 0 30px;
+            }
+          }
+        }
+      }
+    }
+  }
+}

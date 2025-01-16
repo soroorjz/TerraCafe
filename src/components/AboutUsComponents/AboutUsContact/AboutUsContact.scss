@@ -1,0 +1,89 @@
+@import "../../../styles/responsive.scss";
+$tablet-resize: 900px;
+.AboutUsContact-Container {
+  background-color: #eee7e2;
+  width: 100%;
+  .contact-us-section {
+    width: 90%;
+    margin: 0 auto;
+    padding: 50px 0;
+    text-align: center;
+    font-family: Arial, sans-serif;
+
+    .welcome-message {
+      margin-bottom: 40px;
+      h2 {
+        font-size: 32px;
+        color: #4a2c2a;
+        margin-bottom: 10px;
+        @include responsive($tablet) {
+          font-size: 45px;
+        }
+      }
+      p {
+        font-size:18px;
+        color: #6b4e42;
+        @include responsive($tablet) {
+          font-size: 1.2rem;
+
+        }
+      }
+    }
+
+    .contact-container {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 20px;
+      justify-content: center;
+      align-items: flex-start;
+      .contact-left,
+      .contact-right {
+        flex: 1;
+        background: #fff;
+        padding: 20px;
+        border-radius: 10px;
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        h3 {
+          font-size: 1.5rem;
+          color: #4a2c2a;
+          margin-bottom: 15px;
+        }
+
+        p {
+          font-size: 1rem;
+          color: #6b4e42;
+          margin-bottom: 10px;
+        }
+
+        iframe {
+          border-radius: 10px;
+          border: none;
+        }
+        h4 {
+          padding: 10px 0 20px 0;
+          color: #4a2c2a;
+        }
+        .social-links {
+          display: flex;
+          gap: 15px;
+          justify-content: center;
+          a {
+            display: flex;
+            align-items: center;
+            text-decoration: none;
+            color: #4a2c2a;
+            font-size: 16px;
+            transition: color 0.3s;
+            &:hover {
+              color: #8b6e58;
+            }
+            svg {
+              padding: 0 3px;
+              font-size: 22px;
+            }
+          }
+        }
+      }
+    }
+  }
+}

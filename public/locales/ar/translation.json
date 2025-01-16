@@ -1,0 +1,22 @@
+{
+    "navbar": {
+      "Navlinks": [
+        {
+          "id": 1,
+          "text": "post my RFQ"
+        },
+        {
+          "id": 2,
+          "text": "SiginIn/ Login"
+        },
+        {
+          "id": 3,
+          "text": "Messages"
+        },
+        {
+          "id": 4,
+          "text": "inqury bascket"
+        }
+      ]
+    }
+  }

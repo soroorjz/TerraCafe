@@ -1,0 +1,110 @@
+@import "../../../styles/responsive.scss";
+$tablet-resize: 900px;
+.OurProductsPart {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  .productTitle{
+    text-align: center;
+    margin-bottom: 25px;
+    h1{
+      font-size: 30px;
+      margin-bottom: 10px;
+      @include responsive($tablet){
+        font-size: 45px;
+      }
+    }
+    p{
+      font-size: 18px;
+      color: #8B6E58;
+      @include responsive($tablet){
+        font-size: 20px;
+
+      }
+    }
+  }
+  .rotating-blocks {
+    width: 90%;
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: 20px;
+    padding: 20px;
+
+    .block {
+      position: relative;
+      width: 100%;
+      height: 500px;
+      perspective: 1000px;
+      .block-front,
+      .block-back {
+        position: absolute;
+        width: 100%;
+        height: 100%;
+        backface-visibility: hidden;
+        transition: transform 1s ease;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        border-radius: 10px;
+        overflow: hidden;
+      }
+
+      .block-front {
+        background: #f3e5d8;
+        color: #4a2c2a;
+        img {
+          width: 100%;
+          height: 100%;
+          object-fit: cover;
+          filter: brightness(0.9);
+        }
+        h3 {
+          position: absolute;
+          bottom: 10%;
+          font-size: 1.5rem;
+          text-align: center;
+          background: rgba(0, 0, 0, 0.5);
+          color: #fff;
+          padding: 5px 10px;
+          border-radius: 5px;
+        }
+      }
+
+      .block-back {
+        color: #fff;
+        transform: rotateY(180deg);
+        padding: 20px;
+        text-align: center;
+        display: flex;
+        flex-direction: column;
+        p {
+          font-size: 20px;
+          line-height: 25px;
+          margin-bottom: 15px;
+          color: #f8ead1;
+        }
+
+        button {
+          background: #8B6E58;
+          color: #f8ead1;
+          padding: 10px 20px;
+          border: none;
+          border-radius: 5px;
+          cursor: pointer;
+          &:hover {
+            background: #623d34;
+          }
+        }
+      }
+
+      &:hover .block-front {
+        transform: rotateY(180deg);
+      }
+
+      &:hover .block-back {
+        transform: rotateY(0deg);
+      }
+    }
+  }
+}

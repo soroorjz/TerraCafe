@@ -1,0 +1,45 @@
+@import "../../../styles/responsive.scss";
+$tablet-resize: 900px;
+.aboutUsBanner {
+  background-image: url(../../../../public/assets/images/baristaTeam.jfif);
+  height: 100vh;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: top;
+  .aboutUsBannerBG {
+    background-color: #3e29185f;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    color: #f8ead1;
+    @include responsive($tablet-resize) {
+      background-color: #3e29184e;
+    }
+    h1 {
+      font-size: 50px;
+      text-align: center;
+      @include responsive($tablet-resize) {
+        font-size: 70px;
+      }
+    }
+    h2 {
+      font-size: 40px;
+      text-align: center;
+      margin-bottom: 10px;
+      @include responsive($tablet-resize) {
+        font-size: 70px;
+      }
+    }
+    h3 {
+      font-size: 20px;
+      text-align: center;
+      font-weight: 400;
+      @include responsive($tablet-resize) {
+        font-size: 30px;
+      }
+    }
+  }
+}
