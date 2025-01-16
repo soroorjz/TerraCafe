@@ -9,6 +9,7 @@ import { Link } from "react-router-dom";
 function CoffeeSliderSwiper() {
   const { words, brewingMethods } = GetText("Recipe");
   const { i18n } = useTranslation();
+  
   return (
     <div className="toolBlaog-Slider">
       <Swiper
