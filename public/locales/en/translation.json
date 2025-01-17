@@ -239,62 +239,62 @@
         "steps": [
           {
             "stepNumber": 1,
-            "title": "فیلتر را آماده کنید",
-            "description": "کتل برقی را روشن کنید و اجازه بدهید آب به دمای ۹۴ درجه سانتی‌گراد برسد...",
+            "title": "Prepare the Filter",
+            "description": "Turn on the electric kettle and let the water reach 94°C...",
             "image": "/assets/images/1.jpg"
           },
           {
             "stepNumber": 2,
-            "title": "فیلتر را آماده کنید",
-            "description": "کتل برقی را روشن کنید و اجازه بدهید آب به دمای ۹۴ درجه سانتی‌گراد برسد...",
+            "title": "Prepare the Filter",
+            "description": "Turn on the electric kettle and let the water reach 94°C...",
             "image": "/assets/images/1.jpg"
           },
           {
             "stepNumber": 3,
-            "title": "فیلتر را آماده کنید",
-            "description": "کتل برقی را روشن کنید و اجازه بدهید آب به دمای ۹۴ درجه سانتی‌گراد برسد...",
+            "title": "Prepare the Filter",
+            "description": "Turn on the electric kettle and let the water reach 94°C...",
             "image": "/assets/images/1.jpg"
           },
           {
             "stepNumber": 4,
-            "title": "فیلتر را آماده کنید",
-            "description": "کتل برقی را روشن کنید و اجازه بدهید آب به دمای ۹۴ درجه سانتی‌گراد برسد...",
+            "title": "Prepare the Filter",
+            "description": "Turn on the electric kettle and let the water reach 94°C...",
             "image": "/assets/images/1.jpg"
           },
           {
             "stepNumber": 5,
-            "title": "فیلتر را آماده کنید",
-            "description": "کتل برقی را روشن کنید و اجازه بدهید آب به دمای ۹۴ درجه سانتی‌گراد برسد...",
+            "title": "Prepare the Filter",
+            "description": "Turn on the electric kettle and let the water reach 94°C...",
             "image": "/assets/images/1.jpg"
           },
           {
             "stepNumber": 6,
-            "title": "فیلتر را آماده کنید",
-            "description": "کتل برقی را روشن کنید و اجازه بدهید آب به دمای ۹۴ درجه سانتی‌گراد برسد...",
+            "title": "Prepare the Filter",
+            "description": "Turn on the electric kettle and let the water reach 94°C...",
             "image": "/assets/images/1.jpg"
           },
           {
             "stepNumber": 7,
-            "title": "فیلتر را آماده کنید",
-            "description": "کتل برقی را روشن کنید و اجازه بدهید آب به دمای ۹۴ درجه سانتی‌گراد برسد...",
+            "title": "Prepare the Filter",
+            "description": "Turn on the electric kettle and let the water reach 94°C...",
             "image": "/assets/images/1.jpg"
           },
           {
             "stepNumber": 8,
-            "title": "فیلتر را آماده کنید",
-            "description": "کتل برقی را روشن کنید و اجازه بدهید آب به دمای ۹۴ درجه سانتی‌گراد برسد...",
+            "title": "Prepare the Filter",
+            "description": "Turn on the electric kettle and let the water reach 94°C...",
             "image": "/assets/images/1.jpg"
           },
           {
             "stepNumber": 9,
-            "title": "فیلتر را آماده کنید",
-            "description": "کتل برقی را روشن کنید و اجازه بدهید آب به دمای ۹۴ درجه سانتی‌گراد برسد...",
+            "title": "Prepare the Filter",
+            "description": "Turn on the electric kettle and let the water reach 94°C...",
             "image": "/assets/images/1.jpg"
           },
           {
             "stepNumber": 10,
-            "title": "فیلتر را آماده کنید",
-            "description": "کتل برقی را روشن کنید و اجازه بدهید آب به دمای ۹۴ درجه سانتی‌گراد برسد...",
+            "title": "Prepare the Filter",
+            "description": "Turn on the electric kettle and let the water reach 94°C...",
             "image": "/assets/images/1.jpg"
           }
         ],
@@ -308,876 +308,756 @@
           { "id": 7, "itemName": "Timer" },
           { "id": 8, "itemName": "Mug" },
           { "id": 9, "itemName": "Optional: Brewing carafe" }
-        ]
+        ],
+        "howWorks": {
+          "img1": "/assets/images/v60.png",
+          "img2": "/assets/images/v60Nature.jpg",
+          "title1": "How Does the V60 Work?",
+          "title2": "What Are the Advantages of the V60?",
+          "p1": "The V60 is specifically designed to give you full control over the coffee brewing process. This tool features a 60-degree cone with spiral ridges inside that guide the water flow and prevent clogging. Its thin, specially-made paper filter plays a crucial role in removing unwanted oils and coffee particles. By pouring water in a steady, circular motion over the ground coffee, the water gently passes through the coffee bed, extracting a balanced and clean brew. The V60 is truly a combination of science and art, offering a precise and delightful brewing experience.",
+          "p2": "The V60 is not only a simple tool for brewing coffee but also one of the most flexible and efficient methods for achieving a high-quality cup. Its unique design allows you to control every aspect, from brewing time to water temperature and grind size. This precise control results in a clean and transparent extraction that highlights the subtle flavors of the coffee. Additionally, the V60 is lightweight, portable, and highly affordable, making it a popular choice among coffee enthusiasts, whether at home or on the go."
+        }
       },
       {
-        "id": "Chemex",
+        "id": "chemex",
         "title": "Brewing Guide with Chemex",
-        "image": "../../assets/images/3dc2c2e565cbf292b31eeaa10ba01603.jpg",
-        "description": "Clean and light coffee with elegant design",
+        "image": "../../../assets/images/chemex-brewing-guide.webp",
+        "description": "Elegant brewing for a clean and flavorful cup",
         "steps": [
           {
             "stepNumber": 1,
-            "title": "فیلتر را آماده کنید",
-            "description": "کتل برقی را روشن کنید و اجازه بدهید آب به دمای ۹۴ درجه سانتی‌گراد برسد...",
-            "image": "/assets/images/1.jpg"
+            "title": "Prepare the Filter",
+            "description": "Place the Chemex filter into the brewer, ensuring the triple-layered side is against the spout. Rinse thoroughly with hot water to eliminate the paper taste and preheat the Chemex. Discard the rinse water.",
+            "image": "/assets/images/step1.jpg"
           },
           {
             "stepNumber": 2,
-            "title": "فیلتر را آماده کنید",
-            "description": "کتل برقی را روشن کنید و اجازه بدهید آب به دمای ۹۴ درجه سانتی‌گراد برسد...",
-            "image": "/assets/images/1.jpg"
+            "title": "Weigh and Grind Coffee",
+            "description": "Weigh 42g of coffee beans and grind them to a medium-coarse consistency, similar to sea salt.",
+            "image": "/assets/images/step2.jpg"
           },
           {
             "stepNumber": 3,
-            "title": "فیلتر را آماده کنید",
-            "description": "کتل برقی را روشن کنید و اجازه بدهید آب به دمای ۹۴ درجه سانتی‌گراد برسد...",
-            "image": "/assets/images/1.jpg"
+            "title": "Add Coffee to Chemex",
+            "description": "Place the ground coffee into the filter and give it a gentle shake to level the bed.",
+            "image": "/assets/images/step3.jpg"
           },
           {
             "stepNumber": 4,
-            "title": "فیلتر را آماده کنید",
-            "description": "کتل برقی را روشن کنید و اجازه بدهید آب به دمای ۹۴ درجه سانتی‌گراد برسد...",
-            "image": "/assets/images/1.jpg"
+            "title": "Start the Bloom",
+            "description": "Begin pouring hot water (93°C to 96°C) in a slow, circular motion until the coffee grounds are fully saturated (approximately 80-100ml). Let it bloom for 30-45 seconds.",
+            "image": "/assets/images/step4.jpg"
           },
           {
             "stepNumber": 5,
-            "title": "فیلتر را آماده کنید",
-            "description": "کتل برقی را روشن کنید و اجازه بدهید آب به دمای ۹۴ درجه سانتی‌گراد برسد...",
-            "image": "/assets/images/1.jpg"
+            "title": "Continue Pouring",
+            "description": "Gradually pour the remaining water in circles, avoiding the sides of the filter, until you've added a total of 700ml. Pause occasionally to prevent overfilling.",
+            "image": "/assets/images/step5.jpg"
           },
           {
             "stepNumber": 6,
-            "title": "فیلتر را آماده کنید",
-            "description": "کتل برقی را روشن کنید و اجازه بدهید آب به دمای ۹۴ درجه سانتی‌گراد برسد...",
-            "image": "/assets/images/1.jpg"
+            "title": "Allow Coffee to Drip",
+            "description": "Let the brewed coffee completely pass through the filter, which should take about 4-5 minutes.",
+            "image": "/assets/images/step6.jpg"
           },
           {
             "stepNumber": 7,
-            "title": "فیلتر را آماده کنید",
-            "description": "کتل برقی را روشن کنید و اجازه بدهید آب به دمای ۹۴ درجه سانتی‌گراد برسد...",
-            "image": "/assets/images/1.jpg"
+            "title": "Remove the Filter",
+            "description": "Carefully remove the filter with the spent coffee grounds and discard it.",
+            "image": "/assets/images/step7.jpg"
           },
           {
             "stepNumber": 8,
-            "title": "فیلتر را آماده کنید",
-            "description": "کتل برقی را روشن کنید و اجازه بدهید آب به دمای ۹۴ درجه سانتی‌گراد برسد...",
-            "image": "/assets/images/1.jpg"
-          },
-          {
-            "stepNumber": 9,
-            "title": "فیلتر را آماده کنید",
-            "description": "کتل برقی را روشن کنید و اجازه بدهید آب به دمای ۹۴ درجه سانتی‌گراد برسد...",
-            "image": "/assets/images/1.jpg"
-          },
-          {
-            "stepNumber": 10,
-            "title": "فیلتر را آماده کنید",
-            "description": "کتل برقی را روشن کنید و اجازه بدهید آب به دمای ۹۴ درجه سانتی‌گراد برسد...",
-            "image": "/assets/images/1.jpg"
+            "title": "Serve and Enjoy",
+            "description": "Gently swirl the Chemex to mix the coffee before pouring. Serve immediately and savor the clean, nuanced flavors.",
+            "image": "/assets/images/step8.jpg"
           }
         ],
         "materialList": [
-          { "id": 1, "itemName": "Hario V60 brewer" },
-          { "id": 2, "itemName": "Hario V60 filter" },
+          { "id": 1, "itemName": "Chemex brewer" },
+          { "id": 2, "itemName": "Chemex paper filter" },
           { "id": 3, "itemName": "Grinder" },
-          { "id": 4, "itemName": "21g (3 Tablespoons) of ground coffee" },
-          { "id": 5, "itemName": "Hot water just off the boil (about 205°F)" },
+          { "id": 4, "itemName": "42g (6 Tablespoons) of ground coffee" },
+          { "id": 5, "itemName": "Hot water just off the boil (93°C to 96°C)" },
           { "id": 6, "itemName": "Scale" },
           { "id": 7, "itemName": "Timer" },
-          { "id": 8, "itemName": "Mug" },
-          { "id": 9, "itemName": "Optional: Brewing carafe" }
-        ]
+          { "id": 8, "itemName": "Mug" }
+        ],
+        "howWorks": {
+          "img1": "/assets/images/chemex.png",
+          "img2": "/assets/images/chemexNature.jpg",
+          "title1": "How Does the Chemex Work?",
+          "title2": "What Are the Advantages of the Chemex?",
+          "p1": "The Chemex is a beautifully designed pour-over coffee maker that uses a thick paper filter to remove unwanted oils and fine particles, delivering a clean and crisp cup. Its hourglass shape aids in maintaining an even extraction by channeling the water through the coffee bed uniformly. The Chemex's simplicity and precision make it an ideal tool for crafting an elegant, flavorful coffee experience.",
+          "p2": "The Chemex stands out for its blend of style and functionality. Its thick filters produce exceptionally clean brews, highlighting delicate flavors and reducing bitterness. This brewer is perfect for making multiple servings and is as much a decorative piece as it is a functional one. Whether you're hosting guests or enjoying a quiet morning, the Chemex delivers consistent and stunning results every time."
+        }
       },
       {
         "id": "AeroPress",
         "title": "Brewing Guide with AeroPress",
-        "image": "../../assets/images/1d4735f5343a91680ca9eb81c9ab9484.jpg",
-        "description": "Fast, portable, and versatile",
+        "image": "../../../assets/images/aeropress-brewing-guide.webp",
+        "description": "Quick and versatile brewing for rich coffee",
         "steps": [
           {
             "stepNumber": 1,
-            "title": "فیلتر را آماده کنید",
-            "description": "کتل برقی را روشن کنید و اجازه بدهید آب به دمای ۹۴ درجه سانتی‌گراد برسد...",
-            "image": "/assets/images/1.jpg"
+            "title": "Prepare the Filter",
+            "description": "Place a paper filter into the AeroPress filter cap and rinse it with hot water to eliminate any paper taste and preheat the brewing vessel.",
+            "image": "/assets/images/step1.jpg"
           },
           {
             "stepNumber": 2,
-            "title": "فیلتر را آماده کنید",
-            "description": "کتل برقی را روشن کنید و اجازه بدهید آب به دمای ۹۴ درجه سانتی‌گراد برسد...",
-            "image": "/assets/images/1.jpg"
+            "title": "Weigh and Grind Coffee",
+            "description": "Weigh 14-18g of coffee beans, then grind them to a medium-fine consistency, similar to table salt.",
+            "image": "/assets/images/step2.jpg"
           },
           {
             "stepNumber": 3,
-            "title": "فیلتر را آماده کنید",
-            "description": "کتل برقی را روشن کنید و اجازه بدهید آب به دمای ۹۴ درجه سانتی‌گراد برسد...",
-            "image": "/assets/images/1.jpg"
+            "title": "Assemble AeroPress",
+            "description": "Set up the AeroPress on a stable, flat surface with the filter cap securely attached to the chamber. If you’re using the inverted method, make sure the plunger is at the bottom, and the filter cap is removed.",
+            "image": "/assets/images/step3.jpg"
           },
           {
             "stepNumber": 4,
-            "title": "فیلتر را آماده کنید",
-            "description": "کتل برقی را روشن کنید و اجازه بدهید آب به دمای ۹۴ درجه سانتی‌گراد برسد...",
-            "image": "/assets/images/1.jpg"
+            "title": "Add Coffee Grounds",
+            "description": "Place the ground coffee into the AeroPress, making sure it’s evenly distributed in the chamber.",
+            "image": "/assets/images/step4.jpg"
           },
           {
             "stepNumber": 5,
-            "title": "فیلتر را آماده کنید",
-            "description": "کتل برقی را روشن کنید و اجازه بدهید آب به دمای ۹۴ درجه سانتی‌گراد برسد...",
-            "image": "/assets/images/1.jpg"
+            "title": "Pour Hot Water",
+            "description": "Pour 200-250ml of hot water (around 93°C) over the grounds in a circular motion, ensuring the coffee is fully saturated. Stir gently to ensure even extraction.",
+            "image": "/assets/images/step5.jpg"
           },
           {
             "stepNumber": 6,
-            "title": "فیلتر را آماده کنید",
-            "description": "کتل برقی را روشن کنید و اجازه بدهید آب به دمای ۹۴ درجه سانتی‌گراد برسد...",
-            "image": "/assets/images/1.jpg"
+            "title": "Steep and Press",
+            "description": "Allow the coffee to steep for 30 seconds to 1 minute (depending on your desired strength). Then, attach the filter cap and carefully press down steadily for 20-30 seconds.",
+            "image": "/assets/images/step6.jpg"
           },
           {
             "stepNumber": 7,
-            "title": "فیلتر را آماده کنید",
-            "description": "کتل برقی را روشن کنید و اجازه بدهید آب به دمای ۹۴ درجه سانتی‌گراد برسد...",
-            "image": "/assets/images/1.jpg"
-          },
-          {
-            "stepNumber": 8,
-            "title": "فیلتر را آماده کنید",
-            "description": "کتل برقی را روشن کنید و اجازه بدهید آب به دمای ۹۴ درجه سانتی‌گراد برسد...",
-            "image": "/assets/images/1.jpg"
-          },
-          {
-            "stepNumber": 9,
-            "title": "فیلتر را آماده کنید",
-            "description": "کتل برقی را روشن کنید و اجازه بدهید آب به دمای ۹۴ درجه سانتی‌گراد برسد...",
-            "image": "/assets/images/1.jpg"
-          },
-          {
-            "stepNumber": 10,
-            "title": "فیلتر را آماده کنید",
-            "description": "کتل برقی را روشن کنید و اجازه بدهید آب به دمای ۹۴ درجه سانتی‌گراد برسد...",
-            "image": "/assets/images/1.jpg"
+            "title": "Serve and Enjoy",
+            "description": "Once all the coffee is pressed through, remove the AeroPress and discard the filter cap and coffee grounds. Pour the coffee into your mug, and enjoy a clean, rich cup.",
+            "image": "/assets/images/step7.jpg"
           }
         ],
         "materialList": [
-          { "id": 1, "itemName": "Hario V60 brewer" },
-          { "id": 2, "itemName": "Hario V60 filter" },
+          { "id": 1, "itemName": "AeroPress brewer" },
+          { "id": 2, "itemName": "AeroPress paper filter" },
           { "id": 3, "itemName": "Grinder" },
-          { "id": 4, "itemName": "21g (3 Tablespoons) of ground coffee" },
-          { "id": 5, "itemName": "Hot water just off the boil (about 205°F)" },
+          { "id": 4, "itemName": "14-18g (2-3 tablespoons) of ground coffee" },
+          { "id": 5, "itemName": "Hot water just off the boil (93°C)" },
           { "id": 6, "itemName": "Scale" },
           { "id": 7, "itemName": "Timer" },
-          { "id": 8, "itemName": "Mug" },
-          { "id": 9, "itemName": "Optional: Brewing carafe" }
-        ]
+          { "id": 8, "itemName": "Mug" }
+        ],
+        "howWorks": {
+          "img1": "/assets/images/aeropress.png",
+          "img2": "/assets/images/aeropressNature.jpg",
+          "title1": "How Does the AeroPress Work?",
+          "title2": "What Are the Advantages of the AeroPress?",
+          "p1": "The AeroPress is a compact and versatile coffee brewer that combines elements of both pour-over and espresso brewing techniques. By using air pressure to force hot water through coffee grounds, the AeroPress is capable of producing rich, smooth coffee with minimal bitterness. The filter allows for a clean cup, leaving behind unwanted oils and fine particles.",
+          "p2": "The AeroPress stands out for its simplicity, speed, and portability. It is perfect for anyone seeking a quick brewing process without sacrificing flavor. The versatile design allows for various brewing methods, such as the standard and inverted techniques, enabling you to experiment and find the brewing style that suits your preferences best. Its compact size also makes it ideal for traveling."
+        }
       },
       {
-        "id": "Siphon",
+        "id": "siphon",
         "title": "Brewing Guide with Siphon",
-        "image": "",
-        "description": "A fusion of science and art for pure coffee",
+        "image": "../../../assets/images/siphon-brewing-guide.webp",
+        "description": "A mesmerizing brewing method for a clean, flavorful cup",
         "steps": [
           {
             "stepNumber": 1,
-            "title": "فیلتر را آماده کنید",
-            "description": "کتل برقی را روشن کنید و اجازه بدهید آب به دمای ۹۴ درجه سانتی‌گراد برسد...",
-            "image": "/assets/images/1.jpg"
+            "title": "Prepare the Equipment",
+            "description": "Set up your siphon brewing kit with the bottom and top chambers securely attached, ensuring the filter chain is properly positioned inside the top chamber.",
+            "image": "/assets/images/step1.jpg"
           },
           {
             "stepNumber": 2,
-            "title": "فیلتر را آماده کنید",
-            "description": "کتل برقی را روشن کنید و اجازه بدهید آب به دمای ۹۴ درجه سانتی‌گراد برسد...",
-            "image": "/assets/images/1.jpg"
+            "title": "Weigh and Grind Coffee",
+            "description": "Weigh 20g of coffee beans and grind them to a medium consistency, similar to sea salt. This ensures the coffee can extract evenly during the brewing process.",
+            "image": "/assets/images/step2.jpg"
           },
           {
             "stepNumber": 3,
-            "title": "فیلتر را آماده کنید",
-            "description": "کتل برقی را روشن کنید و اجازه بدهید آب به دمای ۹۴ درجه سانتی‌گراد برسد...",
-            "image": "/assets/images/1.jpg"
+            "title": "Add Water to the Bottom Chamber",
+            "description": "Fill the bottom chamber with 250-300ml of water, ensuring it doesn't exceed the recommended amount for your siphon model.",
+            "image": "/assets/images/step3.jpg"
           },
           {
             "stepNumber": 4,
-            "title": "فیلتر را آماده کنید",
-            "description": "کتل برقی را روشن کنید و اجازه بدهید آب به دمای ۹۴ درجه سانتی‌گراد برسد...",
-            "image": "/assets/images/1.jpg"
+            "title": "Attach the Filter",
+            "description": "Carefully attach the filter chain to the bottom of the top chamber and place the top chamber onto the bottom chamber. Make sure the connection is tight and secure.",
+            "image": "/assets/images/step4.jpg"
           },
           {
             "stepNumber": 5,
-            "title": "فیلتر را آماده کنید",
-            "description": "کتل برقی را روشن کنید و اجازه بدهید آب به دمای ۹۴ درجه سانتی‌گراد برسد...",
-            "image": "/assets/images/1.jpg"
+            "title": "Heat the Water",
+            "description": "Place the siphon on a heat source and bring the water to a boil. As the water heats up, it will rise into the top chamber through the tube.",
+            "image": "/assets/images/step5.jpg"
           },
           {
             "stepNumber": 6,
-            "title": "فیلتر را آماده کنید",
-            "description": "کتل برقی را روشن کنید و اجازه بدهید آب به دمای ۹۴ درجه سانتی‌گراد برسد...",
-            "image": "/assets/images/1.jpg"
+            "title": "Add Ground Coffee",
+            "description": "Once the water has risen into the top chamber, add the ground coffee into the chamber, stirring gently to ensure even saturation of the grounds.",
+            "image": "/assets/images/step6.jpg"
           },
           {
             "stepNumber": 7,
-            "title": "فیلتر را آماده کنید",
-            "description": "کتل برقی را روشن کنید و اجازه بدهید آب به دمای ۹۴ درجه سانتی‌گراد برسد...",
-            "image": "/assets/images/1.jpg"
+            "title": "Steep the Coffee",
+            "description": "Allow the coffee to steep for 2-3 minutes, giving it time to extract and develop rich flavors.",
+            "image": "/assets/images/step7.jpg"
           },
           {
             "stepNumber": 8,
-            "title": "فیلتر را آماده کنید",
-            "description": "کتل برقی را روشن کنید و اجازه بدهید آب به دمای ۹۴ درجه سانتی‌گراد برسد...",
-            "image": "/assets/images/1.jpg"
+            "title": "Remove from Heat and Let Coffee Return",
+            "description": "After the steeping time is complete, remove the heat source. The brewed coffee will move down into the bottom chamber, leaving the grounds behind.",
+            "image": "/assets/images/step8.jpg"
           },
           {
             "stepNumber": 9,
-            "title": "فیلتر را آماده کنید",
-            "description": "کتل برقی را روشن کنید و اجازه بدهید آب به دمای ۹۴ درجه سانتی‌گراد برسد...",
-            "image": "/assets/images/1.jpg"
-          },
-          {
-            "stepNumber": 10,
-            "title": "فیلتر را آماده کنید",
-            "description": "کتل برقی را روشن کنید و اجازه بدهید آب به دمای ۹۴ درجه سانتی‌گراد برسد...",
-            "image": "/assets/images/1.jpg"
+            "title": "Serve and Enjoy",
+            "description": "Once the brewing process is complete, carefully remove the top chamber, and serve the coffee from the bottom chamber into your mug for a clean, flavorful cup.",
+            "image": "/assets/images/step9.jpg"
           }
         ],
         "materialList": [
-          { "id": 1, "itemName": "Hario V60 brewer" },
-          { "id": 2, "itemName": "Hario V60 filter" },
+          { "id": 1, "itemName": "Siphon brewing kit" },
+          { "id": 2, "itemName": "Siphon filter chain" },
           { "id": 3, "itemName": "Grinder" },
-          { "id": 4, "itemName": "21g (3 Tablespoons) of ground coffee" },
-          { "id": 5, "itemName": "Hot water just off the boil (about 205°F)" },
-          { "id": 6, "itemName": "Scale" },
-          { "id": 7, "itemName": "Timer" },
-          { "id": 8, "itemName": "Mug" },
-          { "id": 9, "itemName": "Optional: Brewing carafe" }
-        ]
+          { "id": 4, "itemName": "20g (3 tablespoons) of ground coffee" },
+          { "id": 5, "itemName": "Hot water (250-300ml)" },
+          { "id": 6, "itemName": "Heat source (alcohol lamp or stove)" },
+          { "id": 7, "itemName": "Scale" },
+          { "id": 8, "itemName": "Timer" },
+          { "id": 9, "itemName": "Mug" }
+        ],
+        "howWorks": {
+          "img1": "/assets/images/siphon.png",
+          "img2": "/assets/images/siphonNature.jpg",
+          "title1": "How Does the Siphon Work?",
+          "title2": "What Are the Advantages of the Siphon?",
+          "p1": "The siphon uses a fascinating vacuum brewing process where the coffee is brewed by moving water and grounds between two chambers. Heat applied to the bottom chamber creates pressure, causing water to rise into the upper chamber, where it infuses with the ground coffee. After a short steeping, the heat is removed, and the brewed coffee returns to the bottom chamber due to the created vacuum. This creates a clean, flavorful cup of coffee.",
+          "p2": "The siphon offers one of the most theatrical and visually stunning methods for brewing coffee, allowing for an almost magical experience. It produces a clean cup with a rich, complex flavor, often with more clarity and body compared to other methods. The ability to control temperature, extraction time, and coffee-to-water ratio makes the siphon an ideal choice for enthusiasts who enjoy fine-tuning their brewing process."
+        }
       },
       {
-        "id": "Kalita Wave",
+        "id": "kalita-wave",
         "title": "Brewing Guide with Kalita Wave",
-        "image": "",
-        "description": "Even extraction with a smooth flavor",
+        "image": "../../../assets/images/kalita-wave-brewing-guide.webp",
+        "description": "Consistent extraction for a smooth, balanced cup",
         "steps": [
           {
             "stepNumber": 1,
-            "title": "فیلتر را آماده کنید",
-            "description": "کتل برقی را روشن کنید و اجازه بدهید آب به دمای ۹۴ درجه سانتی‌گراد برسد...",
-            "image": "/assets/images/1.jpg"
+            "title": "Prepare the Filter",
+            "description": "Place the Kalita Wave filter into the brewer and rinse it with hot water to eliminate any paper taste and preheat the brewer.",
+            "image": "/assets/images/step1.jpg"
           },
           {
             "stepNumber": 2,
-            "title": "فیلتر را آماده کنید",
-            "description": "کتل برقی را روشن کنید و اجازه بدهید آب به دمای ۹۴ درجه سانتی‌گراد برسد...",
-            "image": "/assets/images/1.jpg"
+            "title": "Weigh and Grind Coffee",
+            "description": "Weigh 20g of coffee and grind it to a medium-coarse consistency, similar to sea salt, which will allow for even extraction during brewing.",
+            "image": "/assets/images/step2.jpg"
           },
           {
             "stepNumber": 3,
-            "title": "فیلتر را آماده کنید",
-            "description": "کتل برقی را روشن کنید و اجازه بدهید آب به دمای ۹۴ درجه سانتی‌گراد برسد...",
-            "image": "/assets/images/1.jpg"
+            "title": "Add Ground Coffee to Filter",
+            "description": "Add the ground coffee into the filter, leveling it out gently to create a uniform surface for the water to flow through.",
+            "image": "/assets/images/step3.jpg"
           },
           {
             "stepNumber": 4,
-            "title": "فیلتر را آماده کنید",
-            "description": "کتل برقی را روشن کنید و اجازه بدهید آب به دمای ۹۴ درجه سانتی‌گراد برسد...",
-            "image": "/assets/images/1.jpg"
+            "title": "Begin Brewing with Hot Water",
+            "description": "Start your pour by gently pouring a small amount of hot water (around 205°F/96°C) over the coffee grounds, just enough to bloom. Let it rest for 30 seconds to allow the coffee to release gases.",
+            "image": "/assets/images/step4.jpg"
           },
           {
             "stepNumber": 5,
-            "title": "فیلتر را آماده کنید",
-            "description": "کتل برقی را روشن کنید و اجازه بدهید آب به دمای ۹۴ درجه سانتی‌گراد برسد...",
-            "image": "/assets/images/1.jpg"
+            "title": "Continue Pouring in a Circular Motion",
+            "description": "Gradually pour the remaining hot water in a steady, circular motion, starting from the center and moving outwards. Maintain a consistent pour to achieve balanced extraction.",
+            "image": "/assets/images/step5.jpg"
           },
           {
             "stepNumber": 6,
-            "title": "فیلتر را آماده کنید",
-            "description": "کتل برقی را روشن کنید و اجازه بدهید آب به دمای ۹۴ درجه سانتی‌گراد برسد...",
-            "image": "/assets/images/1.jpg"
+            "title": "Allow the Coffee to Brew",
+            "description": "Let the coffee brew for around 2-3 minutes, keeping an eye on the water level. The coffee should drip steadily into your mug or carafe below.",
+            "image": "/assets/images/step6.jpg"
           },
           {
             "stepNumber": 7,
-            "title": "فیلتر را آماده کنید",
-            "description": "کتل برقی را روشن کنید و اجازه بدهید آب به دمای ۹۴ درجه سانتی‌گراد برسد...",
-            "image": "/assets/images/1.jpg"
-          },
-          {
-            "stepNumber": 8,
-            "title": "فیلتر را آماده کنید",
-            "description": "کتل برقی را روشن کنید و اجازه بدهید آب به دمای ۹۴ درجه سانتی‌گراد برسد...",
-            "image": "/assets/images/1.jpg"
-          },
-          {
-            "stepNumber": 9,
-            "title": "فیلتر را آماده کنید",
-            "description": "کتل برقی را روشن کنید و اجازه بدهید آب به دمای ۹۴ درجه سانتی‌گراد برسد...",
-            "image": "/assets/images/1.jpg"
-          },
-          {
-            "stepNumber": 10,
-            "title": "فیلتر را آماده کنید",
-            "description": "کتل برقی را روشن کنید و اجازه بدهید آب به دمای ۹۴ درجه سانتی‌گراد برسد...",
-            "image": "/assets/images/1.jpg"
+            "title": "Serve and Enjoy",
+            "description": "Once all the water has passed through the coffee grounds, remove the Kalita Wave and discard the filter. Pour the brewed coffee into your cup and enjoy.",
+            "image": "/assets/images/step7.jpg"
           }
         ],
         "materialList": [
-          { "id": 1, "itemName": "Hario V60 brewer" },
-          { "id": 2, "itemName": "Hario V60 filter" },
+          { "id": 1, "itemName": "Kalita Wave Brewer" },
+          { "id": 2, "itemName": "Kalita Wave Filters" },
           { "id": 3, "itemName": "Grinder" },
-          { "id": 4, "itemName": "21g (3 Tablespoons) of ground coffee" },
+          { "id": 4, "itemName": "20g (3 tablespoons) of ground coffee" },
           { "id": 5, "itemName": "Hot water just off the boil (about 205°F)" },
           { "id": 6, "itemName": "Scale" },
           { "id": 7, "itemName": "Timer" },
-          { "id": 8, "itemName": "Mug" },
-          { "id": 9, "itemName": "Optional: Brewing carafe" }
-        ]
+          { "id": 8, "itemName": "Mug or carafe" }
+        ],
+        "howWorks": {
+          "img1": "/assets/images/kalita-wave.png",
+          "img2": "/assets/images/kalita-waveNature.jpg",
+          "title1": "How Does the Kalita Wave Work?",
+          "title2": "What Are the Advantages of the Kalita Wave?",
+          "p1": "The Kalita Wave features a flat-bottom design with three small holes that help ensure even water distribution across the coffee grounds. The Wave's unique design allows for a consistent extraction, making it an excellent choice for those looking for a balanced, smooth cup. By pouring water in a circular motion over the grounds, the design helps control the flow rate, ensuring an even and predictable brew.",
+          "p2": "One of the key advantages of the Kalita Wave is its ability to deliver a consistently balanced extraction. The flat-bottom design and the three holes at the bottom ensure that the water flows through the coffee grounds evenly, minimizing any channeling. This brewing method produces a smooth, mellow flavor profile with a clear taste and a well-rounded finish. Additionally, its simplicity makes it easy to master, providing excellent results even for beginners."
+        }
       },
       {
-        "id": "Clever Dripper",
+        "id": "clever-dripper",
         "title": "Brewing Guide with Clever Dripper",
-        "image": "",
-        "description": "A mix of control and ease for rich coffee",
+        "image": "../../../assets/images/clever-dripper-brewing-guide.webp",
+        "description": "Full immersion brewing for a rich, full-bodied cup",
         "steps": [
           {
             "stepNumber": 1,
-            "title": "فیلتر را آماده کنید",
-            "description": "کتل برقی را روشن کنید و اجازه بدهید آب به دمای ۹۴ درجه سانتی‌گراد برسد...",
-            "image": "/assets/images/1.jpg"
+            "title": "Prepare the Filter",
+            "description": "Place a paper filter into the Clever Dripper and rinse it with hot water to remove any paper taste and preheat the brewer.",
+            "image": "/assets/images/step1.jpg"
           },
           {
             "stepNumber": 2,
-            "title": "فیلتر را آماده کنید",
-            "description": "کتل برقی را روشن کنید و اجازه بدهید آب به دمای ۹۴ درجه سانتی‌گراد برسد...",
-            "image": "/assets/images/1.jpg"
+            "title": "Weigh and Grind Coffee",
+            "description": "Weigh 20g of coffee and grind it to a medium-coarse consistency, similar to sea salt, to allow for even extraction.",
+            "image": "/assets/images/step2.jpg"
           },
           {
             "stepNumber": 3,
-            "title": "فیلتر را آماده کنید",
-            "description": "کتل برقی را روشن کنید و اجازه بدهید آب به دمای ۹۴ درجه سانتی‌گراد برسد...",
-            "image": "/assets/images/1.jpg"
+            "title": "Add Ground Coffee to the Filter",
+            "description": "Add the ground coffee to the filter in the Clever Dripper and level it out gently, ensuring an even surface for water to interact with.",
+            "image": "/assets/images/step3.jpg"
           },
           {
             "stepNumber": 4,
-            "title": "فیلتر را آماده کنید",
-            "description": "کتل برقی را روشن کنید و اجازه بدهید آب به دمای ۹۴ درجه سانتی‌گراد برسد...",
-            "image": "/assets/images/1.jpg"
+            "title": "Begin Brewing with Hot Water",
+            "description": "Pour hot water (about 205°F/96°C) over the coffee grounds to saturate them fully. Add enough water to cover all the grounds and let them bloom for 30 seconds.",
+            "image": "/assets/images/step4.jpg"
           },
           {
             "stepNumber": 5,
-            "title": "فیلتر را آماده کنید",
-            "description": "کتل برقی را روشن کنید و اجازه بدهید آب به دمای ۹۴ درجه سانتی‌گراد برسد...",
-            "image": "/assets/images/1.jpg"
+            "title": "Continue Adding Hot Water",
+            "description": "Pour the rest of the water gently over the coffee grounds in a circular motion until you reach the desired brew volume, making sure to saturate all of the grounds evenly.",
+            "image": "/assets/images/step5.jpg"
           },
           {
             "stepNumber": 6,
-            "title": "فیلتر را آماده کنید",
-            "description": "کتل برقی را روشن کنید و اجازه بدهید آب به دمای ۹۴ درجه سانتی‌گراد برسد...",
-            "image": "/assets/images/1.jpg"
+            "title": "Let the Coffee Brew",
+            "description": "Place the Clever Dripper on top of your mug or carafe, and let the coffee steep for about 3-4 minutes, allowing full immersion of the coffee grounds in water.",
+            "image": "/assets/images/step6.jpg"
           },
           {
             "stepNumber": 7,
-            "title": "فیلتر را آماده کنید",
-            "description": "کتل برقی را روشن کنید و اجازه بدهید آب به دمای ۹۴ درجه سانتی‌گراد برسد...",
-            "image": "/assets/images/1.jpg"
+            "title": "Release the Coffee",
+            "description": "After brewing, remove the Clever Dripper from the mug or carafe. The valve at the bottom will release the brewed coffee, allowing it to drip through into your cup or carafe.",
+            "image": "/assets/images/step7.jpg"
           },
           {
             "stepNumber": 8,
-            "title": "فیلتر را آماده کنید",
-            "description": "کتل برقی را روشن کنید و اجازه بدهید آب به دمای ۹۴ درجه سانتی‌گراد برسد...",
-            "image": "/assets/images/1.jpg"
-          },
-          {
-            "stepNumber": 9,
-            "title": "فیلتر را آماده کنید",
-            "description": "کتل برقی را روشن کنید و اجازه بدهید آب به دمای ۹۴ درجه سانتی‌گراد برسد...",
-            "image": "/assets/images/1.jpg"
-          },
-          {
-            "stepNumber": 10,
-            "title": "فیلتر را آماده کنید",
-            "description": "کتل برقی را روشن کنید و اجازه بدهید آب به دمای ۹۴ درجه سانتی‌گراد برسد...",
-            "image": "/assets/images/1.jpg"
+            "title": "Serve and Enjoy",
+            "description": "Once the coffee has fully drained through, discard the filter with the spent grounds, and pour yourself a cup of freshly brewed, full-bodied coffee.",
+            "image": "/assets/images/step8.jpg"
           }
         ],
         "materialList": [
-          { "id": 1, "itemName": "Hario V60 brewer" },
-          { "id": 2, "itemName": "Hario V60 filter" },
+          { "id": 1, "itemName": "Clever Dripper Brewer" },
+          { "id": 2, "itemName": "Paper filter" },
           { "id": 3, "itemName": "Grinder" },
-          { "id": 4, "itemName": "21g (3 Tablespoons) of ground coffee" },
+          { "id": 4, "itemName": "20g (3 tablespoons) of ground coffee" },
           { "id": 5, "itemName": "Hot water just off the boil (about 205°F)" },
           { "id": 6, "itemName": "Scale" },
           { "id": 7, "itemName": "Timer" },
-          { "id": 8, "itemName": "Mug" },
-          { "id": 9, "itemName": "Optional: Brewing carafe" }
-        ]
+          { "id": 8, "itemName": "Mug or carafe" }
+        ],
+        "howWorks": {
+          "img1": "/assets/images/clever-dripper.png",
+          "img2": "/assets/images/clever-dripperNature.jpg",
+          "title1": "How Does the Clever Dripper Work?",
+          "title2": "What Are the Advantages of the Clever Dripper?",
+          "p1": "The Clever Dripper combines the advantages of both pour-over and French press brewing methods. By fully immersing the coffee grounds in water before filtration, it allows for a rich and full-bodied extraction. The valve at the bottom of the Clever Dripper holds the brewed coffee in place until it's ready to be released into your mug or carafe. This method provides precise control over brewing time and allows for a clean, sediment-free cup.",
+          "p2": "The Clever Dripper is an easy-to-use immersion brewer that provides the best of both worlds. The steeping process ensures a rich, full-flavored extraction, while the simple valve system prevents over-extraction. The result is a smooth, clean cup with bold flavors, all in a user-friendly setup. It is perfect for coffee lovers looking to experience the full body of immersion brewing without the complexity of a French press."
+        }
       },
       {
-        "id": "French Press",
+        "id": "french-press",
         "title": "Brewing Guide with French Press",
-        "image": "../../assets/images/4472cb437677ddfa58f1a171f9a61987.jpg",
-        "description": "Simple and bold brewing with a rich flavor",
+        "image": "../../../assets/images/french-press-brewing-guide.webp",
+        "description": "Rich and full-bodied coffee with a simple brewing method",
         "steps": [
           {
             "stepNumber": 1,
-            "title": "فیلتر را آماده کنید",
-            "description": "کتل برقی را روشن کنید و اجازه بدهید آب به دمای ۹۴ درجه سانتی‌گراد برسد...",
-            "image": "/assets/images/1.jpg"
+            "title": "Prepare the French Press",
+            "description": "Place your French press on a flat surface and remove the plunger. Preheat the French press with hot water and discard it once it’s warmed up.",
+            "image": "/assets/images/step1.jpg"
           },
           {
             "stepNumber": 2,
-            "title": "فیلتر را آماده کنید",
-            "description": "کتل برقی را روشن کنید و اجازه بدهید آب به دمای ۹۴ درجه سانتی‌گراد برسد...",
-            "image": "/assets/images/1.jpg"
+            "title": "Weigh and Grind Coffee",
+            "description": "Weigh 30g of coffee and grind it to a coarse consistency, similar to breadcrumbs. A coarse grind ensures smooth extraction and helps avoid over-extraction.",
+            "image": "/assets/images/step2.jpg"
           },
           {
             "stepNumber": 3,
-            "title": "فیلتر را آماده کنید",
-            "description": "کتل برقی را روشن کنید و اجازه بدهید آب به دمای ۹۴ درجه سانتی‌گراد برسد...",
-            "image": "/assets/images/1.jpg"
+            "title": "Add Coffee Grounds to the French Press",
+            "description": "Add the ground coffee to the preheated French press. Make sure the coffee is evenly distributed for a consistent brew.",
+            "image": "/assets/images/step3.jpg"
           },
           {
             "stepNumber": 4,
-            "title": "فیلتر را آماده کنید",
-            "description": "کتل برقی را روشن کنید و اجازه بدهید آب به دمای ۹۴ درجه سانتی‌گراد برسد...",
-            "image": "/assets/images/1.jpg"
+            "title": "Pour Hot Water Over the Coffee",
+            "description": "Pour 500ml of water just off the boil (about 205°F/96°C) evenly over the coffee grounds to wet all of the grounds. Let it bloom for 30 seconds.",
+            "image": "/assets/images/step4.jpg"
           },
           {
             "stepNumber": 5,
-            "title": "فیلتر را آماده کنید",
-            "description": "کتل برقی را روشن کنید و اجازه بدهید آب به دمای ۹۴ درجه سانتی‌گراد برسد...",
-            "image": "/assets/images/1.jpg"
+            "title": "Stir the Coffee and Water Mixture",
+            "description": "After the bloom, gently stir the coffee and water to ensure all the grounds are fully saturated. Place the lid with the plunger pulled up on the French press.",
+            "image": "/assets/images/step5.jpg"
           },
           {
             "stepNumber": 6,
-            "title": "فیلتر را آماده کنید",
-            "description": "کتل برقی را روشن کنید و اجازه بدهید آب به دمای ۹۴ درجه سانتی‌گراد برسد...",
-            "image": "/assets/images/1.jpg"
+            "title": "Brew for 4 Minutes",
+            "description": "Let the coffee steep for 4 minutes. During this time, the coffee grounds will continue to infuse the water, extracting flavors for a rich brew.",
+            "image": "/assets/images/step6.jpg"
           },
           {
             "stepNumber": 7,
-            "title": "فیلتر را آماده کنید",
-            "description": "کتل برقی را روشن کنید و اجازه بدهید آب به دمای ۹۴ درجه سانتی‌گراد برسد...",
-            "image": "/assets/images/1.jpg"
+            "title": "Press the Plunger",
+            "description": "After 4 minutes, slowly and evenly press down the plunger with steady pressure. This separates the grounds from the brewed coffee.",
+            "image": "/assets/images/step7.jpg"
           },
           {
             "stepNumber": 8,
-            "title": "فیلتر را آماده کنید",
-            "description": "کتل برقی را روشن کنید و اجازه بدهید آب به دمای ۹۴ درجه سانتی‌گراد برسد...",
-            "image": "/assets/images/1.jpg"
-          },
-          {
-            "stepNumber": 9,
-            "title": "فیلتر را آماده کنید",
-            "description": "کتل برقی را روشن کنید و اجازه بدهید آب به دمای ۹۴ درجه سانتی‌گراد برسد...",
-            "image": "/assets/images/1.jpg"
-          },
-          {
-            "stepNumber": 10,
-            "title": "فیلتر را آماده کنید",
-            "description": "کتل برقی را روشن کنید و اجازه بدهید آب به دمای ۹۴ درجه سانتی‌گراد برسد...",
-            "image": "/assets/images/1.jpg"
+            "title": "Serve and Enjoy",
+            "description": "Once the plunger is fully pressed down, pour the brewed coffee into your cup and enjoy the rich, full-bodied flavors of your French press brew.",
+            "image": "/assets/images/step8.jpg"
           }
         ],
         "materialList": [
-          { "id": 1, "itemName": "Hario V60 brewer" },
-          { "id": 2, "itemName": "Hario V60 filter" },
+          { "id": 1, "itemName": "French Press Brewer" },
+          { "id": 2, "itemName": "Coarse ground coffee (30g)" },
           { "id": 3, "itemName": "Grinder" },
-          { "id": 4, "itemName": "21g (3 Tablespoons) of ground coffee" },
-          { "id": 5, "itemName": "Hot water just off the boil (about 205°F)" },
-          { "id": 6, "itemName": "Scale" },
-          { "id": 7, "itemName": "Timer" },
-          { "id": 8, "itemName": "Mug" },
-          { "id": 9, "itemName": "Optional: Brewing carafe" }
-        ]
+          { "id": 4, "itemName": "Hot water just off the boil (about 205°F)" },
+          { "id": 5, "itemName": "Scale" },
+          { "id": 6, "itemName": "Timer" },
+          { "id": 7, "itemName": "Spoon or stirrer" },
+          { "id": 8, "itemName": "Mug" }
+        ],
+        "howWorks": {
+          "img1": "/assets/images/french-press.png",
+          "img2": "/assets/images/french-pressNature.jpg",
+          "title1": "How Does the French Press Work?",
+          "title2": "What Are the Advantages of the French Press?",
+          "p1": "The French Press is an immersion brewing method where coffee grounds are fully saturated by hot water. The brewing process involves steeping the grounds for a period of time before separating them from the coffee using a plunger. This method extracts a high concentration of flavors, resulting in a rich and full-bodied cup. The simple design of the French Press allows for precise control over brewing time and the coffee-to-water ratio, giving you a customizable and straightforward brewing experience.",
+          "p2": "The French Press is popular for its ability to produce coffee that is rich in oils and full of flavor. Unlike drip coffee makers or pour-over methods, it doesn't use paper filters, which means more oils and coffee particles stay in the brew, giving it a thicker and bolder taste. The French Press is also easy to use and maintain, and its versatility makes it a great choice for home coffee brewing, especially for those who prefer strong, aromatic coffee."
+        }
       },
       {
-        "id": "Drip Coffee Maker",
+        "id": "drip-coffee-maker",
         "title": "Brewing Guide with Drip Coffee Maker",
-        "image": "",
-        "description": "Easy and quick for daily coffee",
+        "image": "../../../assets/images/drip-coffee-maker-brewing-guide.webp",
+        "description": "Convenient and consistent brewing with minimal effort",
         "steps": [
           {
             "stepNumber": 1,
-            "title": "فیلتر را آماده کنید",
-            "description": "کتل برقی را روشن کنید و اجازه بدهید آب به دمای ۹۴ درجه سانتی‌گراد برسد...",
-            "image": "/assets/images/1.jpg"
+            "title": "Prepare the Drip Coffee Maker",
+            "description": "Place the coffee maker on a flat, stable surface. Insert a paper filter into the brew basket, making sure it fits properly.",
+            "image": "/assets/images/step1.jpg"
           },
           {
             "stepNumber": 2,
-            "title": "فیلتر را آماده کنید",
-            "description": "کتل برقی را روشن کنید و اجازه بدهید آب به دمای ۹۴ درجه سانتی‌گراد برسد...",
-            "image": "/assets/images/1.jpg"
+            "title": "Weigh and Grind Coffee",
+            "description": "Weigh 20g of coffee and grind it to a medium grind size, similar to table salt. This will ensure an even extraction.",
+            "image": "/assets/images/step2.jpg"
           },
           {
             "stepNumber": 3,
-            "title": "فیلتر را آماده کنید",
-            "description": "کتل برقی را روشن کنید و اجازه بدهید آب به دمای ۹۴ درجه سانتی‌گراد برسد...",
-            "image": "/assets/images/1.jpg"
+            "title": "Add Coffee Grounds to the Filter",
+            "description": "Pour the ground coffee into the filter, making sure it's evenly distributed for uniform extraction.",
+            "image": "/assets/images/step3.jpg"
           },
           {
             "stepNumber": 4,
-            "title": "فیلتر را آماده کنید",
-            "description": "کتل برقی را روشن کنید و اجازه بدهید آب به دمای ۹۴ درجه سانتی‌گراد برسد...",
-            "image": "/assets/images/1.jpg"
+            "title": "Add Water to the Coffee Maker",
+            "description": "Fill the water reservoir with fresh, filtered water. Use 300ml of water for every 20g of coffee, ensuring an optimal brew ratio.",
+            "image": "/assets/images/step4.jpg"
           },
           {
             "stepNumber": 5,
-            "title": "فیلتر را آماده کنید",
-            "description": "کتل برقی را روشن کنید و اجازه بدهید آب به دمای ۹۴ درجه سانتی‌گراد برسد...",
-            "image": "/assets/images/1.jpg"
+            "title": "Start Brewing",
+            "description": "Turn on the drip coffee maker to start brewing. The water will flow through the coffee grounds and paper filter, extracting the flavors into the pot.",
+            "image": "/assets/images/step5.jpg"
           },
           {
             "stepNumber": 6,
-            "title": "فیلتر را آماده کنید",
-            "description": "کتل برقی را روشن کنید و اجازه بدهید آب به دمای ۹۴ درجه سانتی‌گراد برسد...",
-            "image": "/assets/images/1.jpg"
+            "title": "Wait for the Brew to Finish",
+            "description": "Allow the brewing process to complete. This typically takes about 5 minutes depending on the coffee maker model.",
+            "image": "/assets/images/step6.jpg"
           },
           {
             "stepNumber": 7,
-            "title": "فیلتر را آماده کنید",
-            "description": "کتل برقی را روشن کنید و اجازه بدهید آب به دمای ۹۴ درجه سانتی‌گراد برسد...",
-            "image": "/assets/images/1.jpg"
-          },
-          {
-            "stepNumber": 8,
-            "title": "فیلتر را آماده کنید",
-            "description": "کتل برقی را روشن کنید و اجازه بدهید آب به دمای ۹۴ درجه سانتی‌گراد برسد...",
-            "image": "/assets/images/1.jpg"
-          },
-          {
-            "stepNumber": 9,
-            "title": "فیلتر را آماده کنید",
-            "description": "کتل برقی را روشن کنید و اجازه بدهید آب به دمای ۹۴ درجه سانتی‌گراد برسد...",
-            "image": "/assets/images/1.jpg"
-          },
-          {
-            "stepNumber": 10,
-            "title": "فیلتر را آماده کنید",
-            "description": "کتل برقی را روشن کنید و اجازه بدهید آب به دمای ۹۴ درجه سانتی‌گراد برسد...",
-            "image": "/assets/images/1.jpg"
+            "title": "Serve and Enjoy",
+            "description": "Once the brewing process is finished, pour your fresh coffee into a mug and enjoy the flavorful, well-balanced brew.",
+            "image": "/assets/images/step7.jpg"
           }
         ],
         "materialList": [
-          { "id": 1, "itemName": "Hario V60 brewer" },
-          { "id": 2, "itemName": "Hario V60 filter" },
-          { "id": 3, "itemName": "Grinder" },
-          { "id": 4, "itemName": "21g (3 Tablespoons) of ground coffee" },
-          { "id": 5, "itemName": "Hot water just off the boil (about 205°F)" },
-          { "id": 6, "itemName": "Scale" },
-          { "id": 7, "itemName": "Timer" },
-          { "id": 8, "itemName": "Mug" },
-          { "id": 9, "itemName": "Optional: Brewing carafe" }
-        ]
+          { "id": 1, "itemName": "Drip Coffee Maker" },
+          { "id": 2, "itemName": "Paper filter" },
+          { "id": 3, "itemName": "Medium ground coffee (20g)" },
+          { "id": 4, "itemName": "Fresh filtered water (300ml)" },
+          { "id": 5, "itemName": "Scale" },
+          { "id": 6, "itemName": "Timer" },
+          { "id": 7, "itemName": "Mug" }
+        ],
+        "howWorks": {
+          "img1": "/assets/images/drip-coffee-maker.png",
+          "img2": "/assets/images/drip-coffee-makerNature.jpg",
+          "title1": "How Does the Drip Coffee Maker Work?",
+          "title2": "What Are the Advantages of the Drip Coffee Maker?",
+          "p1": "The drip coffee maker brews coffee through a process known as percolation. Water is heated in a reservoir and then drips down through a coffee filter filled with ground coffee. The hot water absorbs flavors from the coffee grounds as it passes through them and then drips into the pot below. The paper filter ensures that only the brewed coffee makes it into the pot while trapping coffee grounds and oils.",
+          "p2": "Drip coffee makers are incredibly convenient, as they allow you to brew coffee hands-free with consistent results. It's a popular option for daily coffee brewing thanks to its ability to make multiple cups of coffee at once, especially in the morning when you're in a rush. This method is also easy to use, maintain, and clean, making it a perfect choice for beginners or people who prefer simplicity without sacrificing quality."
+        }
       },
       {
-        "id": "Cold Brew",
+        "id": "cold-brew",
         "title": "Brewing Guide with Cold Brew",
-        "image": "",
-        "description": "Cold brewing for a smooth and mellow taste",
+        "image": "../../../assets/images/cold-brew-brewing-guide.webp",
+        "description": "Smooth and rich coffee brewed with cold water over a long period",
         "steps": [
           {
             "stepNumber": 1,
-            "title": "فیلتر را آماده کنید",
-            "description": "کتل برقی را روشن کنید و اجازه بدهید آب به دمای ۹۴ درجه سانتی‌گراد برسد...",
-            "image": "/assets/images/1.jpg"
+            "title": "Grind the Coffee Beans",
+            "description": "Weigh 60g of coffee beans and grind them coarsely, similar to breadcrumbs. This will ensure slow extraction during the brewing process.",
+            "image": "/assets/images/step1.jpg"
           },
           {
             "stepNumber": 2,
-            "title": "فیلتر را آماده کنید",
-            "description": "کتل برقی را روشن کنید و اجازه بدهید آب به دمای ۹۴ درجه سانتی‌گراد برسد...",
-            "image": "/assets/images/1.jpg"
+            "title": "Combine Coffee and Water",
+            "description": "Place the ground coffee in a large jar or pitcher. Add 750ml of cold, filtered water. Stir gently to ensure the grounds are fully saturated.",
+            "image": "/assets/images/step2.jpg"
           },
           {
             "stepNumber": 3,
-            "title": "فیلتر را آماده کنید",
-            "description": "کتل برقی را روشن کنید و اجازه بدهید آب به دمای ۹۴ درجه سانتی‌گراد برسد...",
-            "image": "/assets/images/1.jpg"
+            "title": "Let It Steep",
+            "description": "Cover the jar and let the coffee steep in the fridge for 12-24 hours, depending on how strong you want your cold brew to be. The longer it steeps, the stronger the flavor.",
+            "image": "/assets/images/step3.jpg"
           },
           {
             "stepNumber": 4,
-            "title": "فیلتر را آماده کنید",
-            "description": "کتل برقی را روشن کنید و اجازه بدهید آب به دمای ۹۴ درجه سانتی‌گراد برسد...",
-            "image": "/assets/images/1.jpg"
+            "title": "Filter the Coffee",
+            "description": "After steeping, filter the coffee through a fine mesh sieve or coffee filter to remove the coffee grounds. You can use a cold brew coffee maker if you have one.",
+            "image": "/assets/images/step4.jpg"
           },
           {
             "stepNumber": 5,
-            "title": "فیلتر را آماده کنید",
-            "description": "کتل برقی را روشن کنید و اجازه بدهید آب به دمای ۹۴ درجه سانتی‌گراد برسد...",
-            "image": "/assets/images/1.jpg"
-          },
-          {
-            "stepNumber": 6,
-            "title": "فیلتر را آماده کنید",
-            "description": "کتل برقی را روشن کنید و اجازه بدهید آب به دمای ۹۴ درجه سانتی‌گراد برسد...",
-            "image": "/assets/images/1.jpg"
-          },
-          {
-            "stepNumber": 7,
-            "title": "فیلتر را آماده کنید",
-            "description": "کتل برقی را روشن کنید و اجازه بدهید آب به دمای ۹۴ درجه سانتی‌گراد برسد...",
-            "image": "/assets/images/1.jpg"
-          },
-          {
-            "stepNumber": 8,
-            "title": "فیلتر را آماده کنید",
-            "description": "کتل برقی را روشن کنید و اجازه بدهید آب به دمای ۹۴ درجه سانتی‌گراد برسد...",
-            "image": "/assets/images/1.jpg"
-          },
-          {
-            "stepNumber": 9,
-            "title": "فیلتر را آماده کنید",
-            "description": "کتل برقی را روشن کنید و اجازه بدهید آب به دمای ۹۴ درجه سانتی‌گراد برسد...",
-            "image": "/assets/images/1.jpg"
-          },
-          {
-            "stepNumber": 10,
-            "title": "فیلتر را آماده کنید",
-            "description": "کتل برقی را روشن کنید و اجازه بدهید آب به دمای ۹۴ درجه سانتی‌گراد برسد...",
-            "image": "/assets/images/1.jpg"
+            "title": "Serve and Enjoy",
+            "description": "Pour the filtered cold brew into a glass filled with ice. Add milk, sweetener, or water if desired, and enjoy your smooth, rich cold brew coffee.",
+            "image": "/assets/images/step5.jpg"
           }
         ],
         "materialList": [
-          { "id": 1, "itemName": "Hario V60 brewer" },
-          { "id": 2, "itemName": "Hario V60 filter" },
-          { "id": 3, "itemName": "Grinder" },
-          { "id": 4, "itemName": "21g (3 Tablespoons) of ground coffee" },
-          { "id": 5, "itemName": "Hot water just off the boil (about 205°F)" },
-          { "id": 6, "itemName": "Scale" },
-          { "id": 7, "itemName": "Timer" },
-          { "id": 8, "itemName": "Mug" },
-          { "id": 9, "itemName": "Optional: Brewing carafe" }
-        ]
+          { "id": 1, "itemName": "Coarse ground coffee (60g)" },
+          { "id": 2, "itemName": "Cold filtered water (750ml)" },
+          { "id": 3, "itemName": "Large jar or pitcher" },
+          { "id": 4, "itemName": "Fine mesh sieve or coffee filter" },
+          { "id": 5, "itemName": "Ice (optional)" },
+          { "id": 6, "itemName": "Milk or sweetener (optional)" }
+        ],
+        "howWorks": {
+          "img1": "/assets/images/cold-brew.png",
+          "img2": "/assets/images/cold-brewNature.jpg",
+          "title1": "How Does Cold Brew Work?",
+          "title2": "What Are the Advantages of Cold Brew?",
+          "p1": "Cold brew coffee is made by steeping coarsely ground coffee beans in cold water over an extended period (12-24 hours). The slow extraction process results in a smoother, less acidic flavor compared to hot brewing methods. Since the coffee is never exposed to heat, the oils and flavors are gently extracted, giving cold brew coffee its characteristic richness.",
+          "p2": "Cold brew coffee is a great option for those who prefer a smooth and less acidic coffee. It’s perfect for making coffee in bulk and storing in the fridge for later use. Cold brew is also versatile and can be served plain, or diluted with milk, water, or sweeteners. It’s especially refreshing in hot weather and gives a mellow, highly enjoyable cup."
+        }
       },
       {
-        "id": "Espresso Machine",
+        "id": "espresso-machine",
         "title": "Brewing Guide with Espresso Machine",
-        "image": "",
-        "description": "The professional choice for perfect espresso",
+        "image": "../../../assets/images/espresso-machine-brewing-guide.webp",
+        "description": "Intense, concentrated coffee brewed with pressurized water through finely-ground coffee",
         "steps": [
           {
             "stepNumber": 1,
-            "title": "فیلتر را آماده کنید",
-            "description": "کتل برقی را روشن کنید و اجازه بدهید آب به دمای ۹۴ درجه سانتی‌گراد برسد...",
-            "image": "/assets/images/1.jpg"
+            "title": "Preheat the Espresso Machine",
+            "description": "Turn on your espresso machine and allow it to fully preheat. The machine should reach a temperature of around 90°C to ensure optimal brewing conditions.",
+            "image": "/assets/images/step1.jpg"
           },
           {
             "stepNumber": 2,
-            "title": "فیلتر را آماده کنید",
-            "description": "کتل برقی را روشن کنید و اجازه بدهید آب به دمای ۹۴ درجه سانتی‌گراد برسد...",
-            "image": "/assets/images/1.jpg"
+            "title": "Grind the Coffee Beans",
+            "description": "Grind 18-20g of high-quality coffee beans to a fine consistency, similar to table salt. The grind size is critical for proper extraction.",
+            "image": "/assets/images/step2.jpg"
           },
           {
             "stepNumber": 3,
-            "title": "فیلتر را آماده کنید",
-            "description": "کتل برقی را روشن کنید و اجازه بدهید آب به دمای ۹۴ درجه سانتی‌گراد برسد...",
-            "image": "/assets/images/1.jpg"
+            "title": "Tamp the Coffee Grounds",
+            "description": "Add the ground coffee to the espresso portafilter and evenly distribute it. Use a tamper to apply firm, even pressure to ensure a consistent puck and uniform extraction.",
+            "image": "/assets/images/step3.jpg"
           },
           {
             "stepNumber": 4,
-            "title": "فیلتر را آماده کنید",
-            "description": "کتل برقی را روشن کنید و اجازه بدهید آب به دمای ۹۴ درجه سانتی‌گراد برسد...",
-            "image": "/assets/images/1.jpg"
+            "title": "Brew the Espresso",
+            "description": "Lock the portafilter into the machine and start the brewing process. The espresso should take 25-30 seconds to extract, with a rich, creamy consistency and a golden crema on top.",
+            "image": "/assets/images/step4.jpg"
           },
           {
             "stepNumber": 5,
-            "title": "فیلتر را آماده کنید",
-            "description": "کتل برقی را روشن کنید و اجازه بدهید آب به دمای ۹۴ درجه سانتی‌گراد برسد...",
-            "image": "/assets/images/1.jpg"
-          },
-          {
-            "stepNumber": 6,
-            "title": "فیلتر را آماده کنید",
-            "description": "کتل برقی را روشن کنید و اجازه بدهید آب به دمای ۹۴ درجه سانتی‌گراد برسد...",
-            "image": "/assets/images/1.jpg"
-          },
-          {
-            "stepNumber": 7,
-            "title": "فیلتر را آماده کنید",
-            "description": "کتل برقی را روشن کنید و اجازه بدهید آب به دمای ۹۴ درجه سانتی‌گراد برسد...",
-            "image": "/assets/images/1.jpg"
-          },
-          {
-            "stepNumber": 8,
-            "title": "فیلتر را آماده کنید",
-            "description": "کتل برقی را روشن کنید و اجازه بدهید آب به دمای ۹۴ درجه سانتی‌گراد برسد...",
-            "image": "/assets/images/1.jpg"
-          },
-          {
-            "stepNumber": 9,
-            "title": "فیلتر را آماده کنید",
-            "description": "کتل برقی را روشن کنید و اجازه بدهید آب به دمای ۹۴ درجه سانتی‌گراد برسد...",
-            "image": "/assets/images/1.jpg"
-          },
-          {
-            "stepNumber": 10,
-            "title": "فیلتر را آماده کنید",
-            "description": "کتل برقی را روشن کنید و اجازه بدهید آب به دمای ۹۴ درجه سانتی‌گراد برسد...",
-            "image": "/assets/images/1.jpg"
+            "title": "Serve and Enjoy",
+            "description": "Once your espresso shot is ready, serve it immediately. You can enjoy it as is or use it as the base for drinks like lattes or cappuccinos.",
+            "image": "/assets/images/step5.jpg"
           }
         ],
         "materialList": [
-          { "id": 1, "itemName": "Hario V60 brewer" },
-          { "id": 2, "itemName": "Hario V60 filter" },
-          { "id": 3, "itemName": "Grinder" },
-          { "id": 4, "itemName": "21g (3 Tablespoons) of ground coffee" },
-          { "id": 5, "itemName": "Hot water just off the boil (about 205°F)" },
-          { "id": 6, "itemName": "Scale" },
-          { "id": 7, "itemName": "Timer" },
-          { "id": 8, "itemName": "Mug" },
-          { "id": 9, "itemName": "Optional: Brewing carafe" }
-        ]
+          { "id": 1, "itemName": "Espresso machine" },
+          { "id": 2, "itemName": "Fresh coffee beans (18-20g)" },
+          { "id": 3, "itemName": "Coffee grinder" },
+          { "id": 4, "itemName": "Espresso portafilter" },
+          { "id": 5, "itemName": "Tamping tool" },
+          { "id": 6, "itemName": "Scale (optional for precise measurements)" },
+          { "id": 7, "itemName": "Espresso cup" },
+          { "id": 8, "itemName": "Filtered water" }
+        ],
+        "howWorks": {
+          "img1": "/assets/images/espresso-machine.png",
+          "img2": "/assets/images/espresso-closeup.jpg",
+          "title1": "How Does the Espresso Machine Work?",
+          "title2": "What Are the Advantages of an Espresso Machine?",
+          "p1": "An espresso machine brews coffee by forcing pressurized water through finely-ground coffee. The process is quick, taking about 25-30 seconds for a standard espresso shot, and produces a concentrated coffee with a layer of golden crema on top. The high pressure extracted from the coffee grounds ensures a rich, full-bodied flavor with bold characteristics.",
+          "p2": "Using an espresso machine allows for consistent, high-quality extraction each time, making it ideal for coffee lovers who crave strong, rich espresso. It is perfect for making single or double shots of espresso, and it is versatile enough to be used for creating various espresso-based drinks such as lattes, cappuccinos, and Americanos. A great espresso machine offers precise temperature control, consistent pressure, and a sturdy build, ensuring a premium coffee experience every time."
+        }
       },
       {
-        "id": "Moka Pot",
+        "id": "moka-pot",
         "title": "Brewing Guide with Moka Pot",
-        "image": "../../assets/images/8ba32dae47b2b40c2c5c8d7cf7adfba6.jpg",
-        "description": "Homemade espresso with a classic method",
+        "image": "../../../assets/images/moka-pot-brewing-guide.webp",
+        "description": "Classic stovetop brewing method that creates a rich, espresso-like coffee",
         "steps": [
           {
             "stepNumber": 1,
-            "title": "فیلتر را آماده کنید",
-            "description": "کتل برقی را روشن کنید و اجازه بدهید آب به دمای ۹۴ درجه سانتی‌گراد برسد...",
-            "image": "/assets/images/1.jpg"
+            "title": "Fill the Bottom Chamber with Water",
+            "description": "Pour water into the bottom chamber of the Moka Pot up to the safety valve. Use filtered water to ensure the best taste.",
+            "image": "/assets/images/step1.jpg"
           },
           {
             "stepNumber": 2,
-            "title": "فیلتر را آماده کنید",
-            "description": "کتل برقی را روشن کنید و اجازه بدهید آب به دمای ۹۴ درجه سانتی‌گراد برسد...",
-            "image": "/assets/images/1.jpg"
+            "title": "Add Coffee Grounds to the Filter Basket",
+            "description": "Fill the filter basket with 15-18g of medium-fine ground coffee, leveling it off without pressing it down.",
+            "image": "/assets/images/step2.jpg"
           },
           {
             "stepNumber": 3,
-            "title": "فیلتر را آماده کنید",
-            "description": "کتل برقی را روشن کنید و اجازه بدهید آب به دمای ۹۴ درجه سانتی‌گراد برسد...",
-            "image": "/assets/images/1.jpg"
+            "title": "Assemble the Moka Pot",
+            "description": "Place the filter basket into the bottom chamber and screw the top chamber tightly onto the bottom, making sure everything is sealed properly.",
+            "image": "/assets/images/step3.jpg"
           },
           {
             "stepNumber": 4,
-            "title": "فیلتر را آماده کنید",
-            "description": "کتل برقی را روشن کنید و اجازه بدهید آب به دمای ۹۴ درجه سانتی‌گراد برسد...",
-            "image": "/assets/images/1.jpg"
+            "title": "Place on Heat Source",
+            "description": "Put the assembled Moka Pot on your stovetop over medium heat. Wait for the coffee to begin bubbling and steaming from the spout.",
+            "image": "/assets/images/step4.jpg"
           },
           {
             "stepNumber": 5,
-            "title": "فیلتر را آماده کنید",
-            "description": "کتل برقی را روشن کنید و اجازه بدهید آب به دمای ۹۴ درجه سانتی‌گراد برسد...",
-            "image": "/assets/images/1.jpg"
+            "title": "Remove from Heat",
+            "description": "Once the bubbling sounds slow down and there is less steam coming from the spout, remove the Moka Pot from the heat. This signals that the brewing is complete.",
+            "image": "/assets/images/step5.jpg"
           },
           {
             "stepNumber": 6,
-            "title": "فیلتر را آماده کنید",
-            "description": "کتل برقی را روشن کنید و اجازه بدهید آب به دمای ۹۴ درجه سانتی‌گراد برسد...",
-            "image": "/assets/images/1.jpg"
-          },
-          {
-            "stepNumber": 7,
-            "title": "فیلتر را آماده کنید",
-            "description": "کتل برقی را روشن کنید و اجازه بدهید آب به دمای ۹۴ درجه سانتی‌گراد برسد...",
-            "image": "/assets/images/1.jpg"
-          },
-          {
-            "stepNumber": 8,
-            "title": "فیلتر را آماده کنید",
-            "description": "کتل برقی را روشن کنید و اجازه بدهید آب به دمای ۹۴ درجه سانتی‌گراد برسد...",
-            "image": "/assets/images/1.jpg"
-          },
-          {
-            "stepNumber": 9,
-            "title": "فیلتر را آماده کنید",
-            "description": "کتل برقی را روشن کنید و اجازه بدهید آب به دمای ۹۴ درجه سانتی‌گراد برسد...",
-            "image": "/assets/images/1.jpg"
-          },
-          {
-            "stepNumber": 10,
-            "title": "فیلتر را آماده کنید",
-            "description": "کتل برقی را روشن کنید و اجازه بدهید آب به دمای ۹۴ درجه سانتی‌گراد برسد...",
-            "image": "/assets/images/1.jpg"
+            "title": "Serve and Enjoy",
+            "description": "Open the Moka Pot, pour the freshly brewed coffee into your cup, and enjoy the rich, espresso-like coffee.",
+            "image": "/assets/images/step6.jpg"
           }
         ],
         "materialList": [
-          { "id": 1, "itemName": "Hario V60 brewer" },
-          { "id": 2, "itemName": "Hario V60 filter" },
-          { "id": 3, "itemName": "Grinder" },
-          { "id": 4, "itemName": "21g (3 Tablespoons) of ground coffee" },
-          { "id": 5, "itemName": "Hot water just off the boil (about 205°F)" },
-          { "id": 6, "itemName": "Scale" },
-          { "id": 7, "itemName": "Timer" },
-          { "id": 8, "itemName": "Mug" },
-          { "id": 9, "itemName": "Optional: Brewing carafe" }
-        ]
+          { "id": 1, "itemName": "Moka Pot" },
+          { "id": 2, "itemName": "Freshly ground coffee (15-18g)" },
+          { "id": 3, "itemName": "Filtered water" },
+          { "id": 4, "itemName": "Stovetop or heat source" },
+          { "id": 5, "itemName": "Coffee cup" }
+        ],
+        "howWorks": {
+          "img1": "/assets/images/moka-pot.png",
+          "img2": "/assets/images/moka-pot-brewing.jpg",
+          "title1": "How Does the Moka Pot Work?",
+          "title2": "What Are the Advantages of the Moka Pot?",
+          "p1": "The Moka Pot is a stovetop coffee maker that brews coffee by creating pressure in the bottom chamber as water heats up. This pressure forces water through the coffee grounds in the filter basket, and the brewed coffee rises up through a tube into the upper chamber, where it’s collected. The result is a rich, full-bodied coffee that closely resembles espresso in strength and taste.",
+          "p2": "The Moka Pot is an excellent choice for brewing strong coffee without requiring an espresso machine. It is compact, portable, and highly affordable, making it a popular option for home brewing and travel. Its classic design allows for control over the brewing process, and the resulting coffee is robust, intense, and perfect for making coffee-based drinks like lattes and mochas."
+        }
       },
       {
-        "id": "Ibrik",
+        "id": "ibrik",
         "title": "Brewing Guide with Ibrik",
-        "image": "../../assets/images/8ba32dae47b2b40c2c5c8d7cf7adfba6.jpg",
-        "description": "Homemade espresso with a classic method",
+        "image": "../../../assets/images/ibrik-coffee-brewing-guide.webp",
+        "description": "Traditional Turkish brewing method for a rich, thick, and flavorful coffee",
         "steps": [
           {
             "stepNumber": 1,
-            "title": "فیلتر را آماده کنید",
-            "description": "کتل برقی را روشن کنید و اجازه بدهید آب به دمای ۹۴ درجه سانتی‌گراد برسد...",
-            "image": "/assets/images/1.jpg"
+            "title": "Add Coffee and Water to the Ibrik",
+            "description": "Measure 1-2 heaping teaspoons of very finely ground coffee per cup and add it to the Ibrik. Pour in cold, filtered water (about 60-90ml per serving).",
+            "image": "/assets/images/step1.jpg"
           },
           {
             "stepNumber": 2,
-            "title": "فیلتر را آماده کنید",
-            "description": "کتل برقی را روشن کنید و اجازه بدهید آب به دمای ۹۴ درجه سانتی‌گراد برسد...",
-            "image": "/assets/images/1.jpg"
+            "title": "Add Sugar (Optional)",
+            "description": "If you prefer sweet coffee, add sugar at this stage. Adjust the sweetness according to your taste: 1-2 teaspoons for a moderately sweet coffee.",
+            "image": "/assets/images/step2.jpg"
           },
           {
             "stepNumber": 3,
-            "title": "فیلتر را آماده کنید",
-            "description": "کتل برقی را روشن کنید و اجازه بدهید آب به دمای ۹۴ درجه سانتی‌گراد برسد...",
-            "image": "/assets/images/1.jpg"
+            "title": "Mix and Start Heating",
+            "description": "Stir the mixture of coffee, water, and sugar well to dissolve the coffee grounds and sugar evenly before heating it over low heat.",
+            "image": "/assets/images/step3.jpg"
           },
           {
             "stepNumber": 4,
-            "title": "فیلتر را آماده کنید",
-            "description": "کتل برقی را روشن کنید و اجازه بدهید آب به دمای ۹۴ درجه سانتی‌گراد برسد...",
-            "image": "/assets/images/1.jpg"
+            "title": "Bring to a Boil",
+            "description": "Place the Ibrik on low heat, allowing it to warm up slowly. As the coffee heats, a foam will begin to form. Watch closely to avoid overflowing as the foam rises.",
+            "image": "/assets/images/step4.jpg"
           },
           {
             "stepNumber": 5,
-            "title": "فیلتر را آماده کنید",
-            "description": "کتل برقی را روشن کنید و اجازه بدهید آب به دمای ۹۴ درجه سانتی‌گراد برسد...",
-            "image": "/assets/images/1.jpg"
+            "title": "Remove and Stir",
+            "description": "Once the foam begins to rise, remove the Ibrik from heat just before it boils over. Stir gently to mix the foam back into the coffee, then place it back on the heat.",
+            "image": "/assets/images/step5.jpg"
           },
           {
             "stepNumber": 6,
-            "title": "فیلتر را آماده کنید",
-            "description": "کتل برقی را روشن کنید و اجازه بدهید آب به دمای ۹۴ درجه سانتی‌گراد برسد...",
-            "image": "/assets/images/1.jpg"
+            "title": "Repeat Heating and Stirring",
+            "description": "Repeat the process of removing from the heat and stirring 2-3 times to enhance the flavor and create a thick, creamy foam.",
+            "image": "/assets/images/step6.jpg"
           },
           {
             "stepNumber": 7,
-            "title": "فیلتر را آماده کنید",
-            "description": "کتل برقی را روشن کنید و اجازه بدهید آب به دمای ۹۴ درجه سانتی‌گراد برسد...",
-            "image": "/assets/images/1.jpg"
-          },
-          {
-            "stepNumber": 8,
-            "title": "فیلتر را آماده کنید",
-            "description": "کتل برقی را روشن کنید و اجازه بدهید آب به دمای ۹۴ درجه سانتی‌گراد برسد...",
-            "image": "/assets/images/1.jpg"
-          },
-          {
-            "stepNumber": 9,
-            "title": "فیلتر را آماده کنید",
-            "description": "کتل برقی را روشن کنید و اجازه بدهید آب به دمای ۹۴ درجه سانتی‌گراد برسد...",
-            "image": "/assets/images/1.jpg"
-          },
-          {
-            "stepNumber": 10,
-            "title": "فیلتر را آماده کنید",
-            "description": "کتل برقی را روشن کنید و اجازه بدهید آب به دمای ۹۴ درجه سانتی‌گراد برسد...",
-            "image": "/assets/images/1.jpg"
+            "title": "Pour and Enjoy",
+            "description": "Once the coffee has reached your desired strength and foam, pour it into your cup. Do not stir after pouring, as the grounds will settle at the bottom.",
+            "image": "/assets/images/step7.jpg"
           }
         ],
         "materialList": [
-          { "id": 1, "itemName": "Hario V60 brewer" },
-          { "id": 2, "itemName": "Hario V60 filter" },
-          { "id": 3, "itemName": "Grinder" },
-          { "id": 4, "itemName": "21g (3 Tablespoons) of ground coffee" },
-          { "id": 5, "itemName": "Hot water just off the boil (about 205°F)" },
-          { "id": 6, "itemName": "Scale" },
-          { "id": 7, "itemName": "Timer" },
-          { "id": 8, "itemName": "Mug" },
-          { "id": 9, "itemName": "Optional: Brewing carafe" }
-        ]
+          { "id": 1, "itemName": "Ibrik" },
+          { "id": 2, "itemName": "Freshly ground Turkish coffee" },
+          { "id": 3, "itemName": "Cold, filtered water" },
+          { "id": 4, "itemName": "Sugar (optional)" },
+          { "id": 5, "itemName": "Heat source (stovetop or flame)" },
+          { "id": 6, "itemName": "Coffee cup" }
+        ],
+        "howWorks": {
+          "img1": "/assets/images/ibrik.png",
+          "img2": "/assets/images/ibrik-brewing.jpg",
+          "title1": "How Does the Ibrik Work?",
+          "title2": "What Are the Advantages of the Ibrik?",
+          "p1": "The Ibrik (or cezve) is a small pot traditionally used for brewing Turkish coffee. The coffee is made by combining finely ground coffee with cold water and sugar (optional), then gently heating the mixture over low heat. The Ibrik is heated repeatedly to form a rich foam and ensure that the coffee grounds are not stirred during brewing, which gives the coffee its distinctive strength and texture. This method creates a dense, flavorful cup of coffee with a pronounced aroma.",
+          "p2": "The Ibrik is ideal for brewing intensely rich and thick coffee, with a strong body and a fine layer of foam. Because it requires careful attention during the brewing process, it offers more control over the brewing process and allows for personal customization in terms of sweetness and strength. The Ibrik is portable, easy to use, and can be a fascinating addition to any coffee lover’s toolkit."
+        }
       }
     ]
   },

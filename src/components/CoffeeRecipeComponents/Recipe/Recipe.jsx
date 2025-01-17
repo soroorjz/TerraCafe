@@ -8,10 +8,6 @@ const Recipe = () => {
   const { brewingMethods } = GetText("Recipe");
   const selectedMethod = brewingMethods.find((method) => method.id === id);
 
-  if (!selectedMethod) {
-    return <p>Recipe not found. Please check the URL.</p>;
-  }
-
   const { steps } = selectedMethod;
 
   return (
